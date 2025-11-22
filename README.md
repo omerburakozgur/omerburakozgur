@@ -2,10 +2,15 @@
 ### Unity Game Developer
 
 🔭 Lately working on a Host-Authoritative Co-op simulator game using Unity, C#,  Photon Fusion and Blender.
+
 👯 Actively leading a  game jam team of 5 people.
+
 🌱 Currently developing various projects and focused on net-ready architecture and networking.
+
 📖 Main areas of work and interests are Unity, C#, AI State Machines, Networking, Game Design, 3D Design.
+
 📖 My current classes are: Game Architecture, Applied Computer Animation, Serious Games, Visual Effects.
+
 💬 You can ask me anything related to my projects and areas of interest.
 
 ## Contact Me
