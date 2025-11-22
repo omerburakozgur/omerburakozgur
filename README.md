@@ -31,9 +31,14 @@
 
 ### Dungeon Janitors: Estate of Chaos
 
-A C#-focused 4 player co-op prototype is being developed based on "Net-Ready" systems like "Host-Authoritative."
-I prepared the technical design (TDD) and game design (GDD) documents for the project.
-Skills Used: C#, System Design, Technical Documentation, Prototyping.
+Within the scope of the "Game Architecture" course, a C#-focused prototype is being developed on 'Net-Ready' systems such as 'Host-Authoritative'.
+
+I prepared the technical design (TDD) and game design (GDD) documents of the project.
+
+I manage the project development process using self created and planned sprints, code reviews and tests.
+
+Skills Used: C#, System Design, Technical Documentation, Prototyping, Agile Development.
+
 
 [View Project](https://github.com/omerburakozgur/Dungeon-Janitors-Estate-of-Chaos)
 
@@ -41,9 +46,12 @@ Skills Used: C#, System Design, Technical Documentation, Prototyping.
 
 ### Traces of Twins
 
-I led a team of three to develop the Unity and code components of a 3D mobile mystery game prototype.
+Leading a team of 3 people, I developed the Unity and code side of the 3D mobile mystery game prototype; I took part in the gameplay, level, UI, story and 3D design parts.
+
 I programmed the event-driven inventory system and core game mechanics (stealth, clue gathering) using C#.
-I implemented core optimization (Occlusion Culling) and Unity UI (Canvas) systems for mobile platforms.
+
+I implemented basic optimization (Occlusion Culling) and Unity UI (Canvas) systems for mobile platforms.
+
 
 [View Project](https://github.com/omerburakozgur/Traces-of-Twins)
 
@@ -51,8 +59,10 @@ I implemented core optimization (Occlusion Culling) and Unity UI (Canvas) system
 
 ### To The Reach
 
-I completed the entire process myself, including design, programming (C#), pixel art (Aseprite), and animation.
-I developed State Machine-based character controls and UI systems (menus, health bar) using Unity Animator.
+I completed the entire process by myself, including design, programming (C#), pixel art (Aseprite) and animation.
+
+I developed State Machine based character controls and UI systems (menus, health bar) using Unity Animator.
+
 
 [View Project](https://github.com/omerburakozgur/ToTheReach)
 
@@ -61,7 +71,9 @@ I developed State Machine-based character controls and UI systems (menus, health
 ### Simulator Prototype HDRP
 
 A 3D simulation game prototype using Unity HDRP, global illumination, and photorealism, built using C# and Blender.
+
 I designed, created, or edited and used the stage, terrain, sea, sky, fog, and cloud volume systems.
+
 I learned and used the stage design tool, including terrain stamps, brushes, procedural terrain texturing tools, 3D and 2D foliage and trees, LOD levels, different lighting methods, and a day/night cycle.
 
 [View Project](https://github.com/omerburakozgur/ToTheReach)
