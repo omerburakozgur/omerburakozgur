@@ -56,7 +56,7 @@ I developed State Machine-based character controls and UI systems (menus, health
 
 ---
 
-### SimulatorPrototype HDRP
+### Simulator Prototype HDRP
 
 A 3D simulation game prototype using Unity HDRP, global illumination, and photorealism, built using C# and Blender.
 I designed, created, or edited and used the stage, terrain, sea, sky, fog, and cloud volume systems.
@@ -99,8 +99,6 @@ When I first started developing games, the first game I developed was “Press t
 ---
 
 ## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerburakozgur&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerburakozgur&theme=null" alt="GitHub Streak" />
 
