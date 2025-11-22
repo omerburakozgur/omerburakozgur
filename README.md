@@ -76,7 +76,7 @@ I designed, created, or edited and used the stage, terrain, sea, sky, fog, and c
 
 I learned and used the stage design tool, including terrain stamps, brushes, procedural terrain texturing tools, 3D and 2D foliage and trees, LOD levels, different lighting methods, and a day/night cycle.
 
-[View Project](https://github.com/omerburakozgur/ToTheReach)
+[View Project](https://github.com/omerburakozgur/Simulator-Prototype-HDRP)
 
 ---
 
