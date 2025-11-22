@@ -24,8 +24,6 @@
 
 ### Dungeon Janitors: Estate of Chaos
 
-<img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="Dungeon Janitors: Estate of Chaos" width="300"/>
-
 A C#-focused 4 player co-op prototype is being developed based on "Net-Ready" systems like "Host-Authoritative."
 I prepared the technical design (TDD) and game design (GDD) documents for the project.
 Skills Used: C#, System Design, Technical Documentation, Prototyping.
@@ -35,8 +33,6 @@ Skills Used: C#, System Design, Technical Documentation, Prototyping.
 ---
 
 ### Traces of Twins
-
-<img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="Traces of Twins" width="300"/>
 
 I led a team of three to develop the Unity and code components of a 3D mobile mystery game prototype.
 I programmed the event-driven inventory system and core game mechanics (stealth, clue gathering) using C#.
@@ -48,8 +44,6 @@ I implemented core optimization (Occlusion Culling) and Unity UI (Canvas) system
 
 ### To The Reach
 
-<img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="To The Reach" width="300"/>
-
 I completed the entire process myself, including design, programming (C#), pixel art (Aseprite), and animation.
 I developed State Machine-based character controls and UI systems (menus, health bar) using Unity Animator.
 
@@ -58,8 +52,6 @@ I developed State Machine-based character controls and UI systems (menus, health
 ---
 
 ### SimulatorPrototype HDRP
-
-<img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="SimulatorPrototype HDRP" width="300"/>
 
 A 3D simulation game prototype using Unity HDRP, global illumination, and photorealism, built using C# and Blender.
 I designed, created, or edited and used the stage, terrain, sea, sky, fog, and cloud volume systems.
@@ -71,8 +63,6 @@ I learned and used the stage design tool, including terrain stamps, brushes, pro
 
 ### Image Processing Tool
 
-<img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="Image Processing Tool" width="300"/>
-
 I created an image processing tool using C# and .Net form applications.
 
 [View Project](https://github.com/omerburakozgur/ImageProcessingAppCSharp)
@@ -80,8 +70,6 @@ I created an image processing tool using C# and .Net form applications.
 ---
 
 ### Drive and Choose
-
-<img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="Drive and Choose" width="300"/>
 
 I developed a 3D Isometric endless runner quiz game prototype called “Drive and Choose” using Unity and C#.
 
@@ -91,8 +79,6 @@ I developed a 3D Isometric endless runner quiz game prototype called “Drive an
 
 ### Jump and Run
 
-<img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="Jump and Run" width="300"/>
-
 I developed a simple 2D platform game called “Jump and Run” in a week using Unity and C#.
 
 [View Project](https://github.com/omerburakozgur/JumpAndRun)
@@ -100,8 +86,6 @@ I developed a simple 2D platform game called “Jump and Run” in a week using 
 ---
 
 ### Press the Attack
-
-<img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="Press the Attack" width="300"/>
 
 When I first started developing games, the first game I developed was “Press the Attack”.
 
