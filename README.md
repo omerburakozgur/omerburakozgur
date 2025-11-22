@@ -3,6 +3,8 @@
 
 ### Unity Game Developer
 
+📚 Currently pursuing Master of Science in Computer Animation and Game Technologies at Hacettepe University, Ankara/Turkey.
+
 🔭 Lately working on a Host-Authoritative 2-4 player co-op simulator game using Unity, C#, Photon Fusion and Blender.
 
 👯 Actively leading a game jam team of 5 people.
@@ -26,58 +28,64 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/>&nbsp;
 <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="40" height="40"/>&nbsp;
 </p>
-Unity - C# - Blender - Maya
 
-## Projects
+## 🚀 Featured Projects
 
-### Dungeon Janitors: Estate of Chaos
+### 🏰 Dungeon Janitors: Estate of Chaos
+> **Tech Stack:** Unity, C#, Photon Fusion, Host-Authoritative Networking
 
-Within the scope of the "Game Architecture" course, a C#-focused prototype is being developed on 'Net-Ready' systems such as 'Host-Authoritative'.
+![Dungeon Janitors Gameplay](https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935)
+Currently Work-in Progress, Concept Image from Synty SIMPLE Dungeons - Cartoon Assets which I will use.
+**Description:** Within the scope of the "Game Architecture" course, a C#-focused prototype is being developed using **host-authoritative architecture** to ensure net-ready gameplay.
+* **Role:** Network & Gameplay Programmer (Team Lead)
+* **Key Contribution:** I prepared the technical design (TDD) and game design (GDD) documents and managed the sprint cycles.
+* **Tech:** Implemented generic network struct synchronization and cheat-free movement logic.
 
-I prepared the technical design (TDD) and game design (GDD) documents of the project.
-
-I manage the project development process using self created and planned sprints, code reviews and tests.
-
-Skills Used: C#, System Design, Technical Documentation, Prototyping, Agile Development.
-
-
-[View Project](https://github.com/omerburakozgur/Dungeon-Janitors-Estate-of-Chaos)
+[View Source Code](https://github.com/omerburakozgur/Dungeon-Janitors-Estate-of-Chaos)
 
 ---
 
-### Traces of Twins
+### 🕵️ Traces of Twins
+> **Tech Stack:** Unity, C#, Mobile Optimization, Event-Driven Architecture
 
-Leading a team of 3 people, I developed the Unity and code side of the 3D mobile mystery game prototype; I took part in the gameplay, level, UI, story and 3D design parts.
+[![Traces of Twins Gameplay](https://img.itch.zone/aW1hZ2UvMzAzNzM0Mi8xODE2NTA0My5wbmc=/original/KWB2rR.png)](https://www.youtube.com/watch?v=q1c7BIsLqdY)
+*(Click on the image to watch the gameplay video)*
 
-I programmed the event-driven inventory system and core game mechanics (stealth, clue gathering) using C#.
+**Description:** A 3D mobile mystery game prototype developed with a team of 3. Focused on stealth mechanics and mobile performance.
+* **Role:** Gameplay & UI Programmer
+* **Key Contribution:** Programmed the event-driven inventory system and occlusion culling for mobile optimization.
+* **Tech:** Custom stealth logic and optimized UI (Canvas) management.
 
-I implemented basic optimization (Occlusion Culling) and Unity UI (Canvas) systems for mobile platforms.
-
-
-[View Project](https://github.com/omerburakozgur/Traces-of-Twins)
-
----
-
-### To The Reach
-
-I completed the entire process by myself, including design, programming (C#), pixel art (Aseprite) and animation.
-
-I developed State Machine based character controls and UI systems (menus, health bar) using Unity Animator.
-
-
-[View Project](https://github.com/omerburakozgur/ToTheReach)
+[View Source Code](https://github.com/omerburakozgur/Traces-of-Twins)
 
 ---
 
-### Simulator Prototype HDRP
+### 🌅 Simulator Prototype (HDRP)
+> **Tech Stack:** Unity HDRP, C#, Blender, Procedural Generation
 
-A 3D simulation game prototype using Unity HDRP, global illumination, and photorealism, built using C# and Blender.
+[![HDRP Simulator Screenshot](https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e)]()
 
-I designed, created, or edited and used the stage, terrain, sea, sky, fog, and cloud volume systems.
+**Description:** A photorealistic 3D simulation prototype exploring High Definition Render Pipeline capabilities.
+* **Role:** Solo Developer / Technical Artist
+* **Key Contribution:** Designed complex volumetric lighting, fog, and day/night cycles using HDRP volumes.
+* **Tech:** Utilized procedural terrain texturing and LOD (Level of Detail) systems for performance.
 
-I learned and used the stage design tool, including terrain stamps, brushes, procedural terrain texturing tools, 3D and 2D foliage and trees, LOD levels, different lighting methods, and a day/night cycle.
+[View Source Code](https://github.com/omerburakozgur/Simulator-Prototype-HDRP)
 
-[View Project](https://github.com/omerburakozgur/Simulator-Prototype-HDRP)
+---
+
+### ⚔️ To The Reach
+> **Tech Stack:** Unity, C#, Aseprite, State Machines
+
+[![To The Reach Gameplay](https://github.com/user-attachments/assets/4a80d741-396a-49c6-8133-bbc4996fc571)](https://www.youtube.com/watch?v=hN8WNtm1iks)
+*(Click on the image to watch the gameplay video)*
+
+**Description:** A pixel-art action platformer where I handled all aspects from code to art.
+* **Role:** Solo Developer
+* **Key Contribution:** Developed a robust State Machine for character controls and combat fluidity.
+* **Art:** Created all pixel art assets and animations using Aseprite.
+
+[View Source Code](https://github.com/omerburakozgur/ToTheReach)
 
 ---
 
@@ -97,19 +105,16 @@ I developed a 3D Isometric endless runner quiz game prototype called “Drive an
 
 ---
 
-### Jump and Run
+## 📂 Other Prototypes & Tools
 
-I developed a simple 2D platform game called “Jump and Run” in a week using Unity and C#.
+Here are some of my earlier experiments, tools, and game jam entries.
 
-[View Project](https://github.com/omerburakozgur/JumpAndRun)
-
----
-
-### Press the Attack
-
-When I first started developing games, the first game I developed was “Press the Attack”.
-
-[View Project](https://github.com/omerburakozgur/PressTheAttack)
+| Project Name | Tech Stack | Type | Description |
+| :--- | :--- | :--- | :--- |
+| **[Image Processing Tool](https://github.com/omerburakozgur/ImageProcessingAppCSharp)** | C#, .NET Forms | Tool | A windows form application for basic image manipulation and filtering. |
+| **[Drive and Choose](https://github.com/omerburakozgur/DriveAndChoose)** | Unity, C# | Game | 3D Isometric endless runner & quiz game prototype. |
+| **[Jump and Run](https://github.com/omerburakozgur/JumpAndRun)** | Unity, C# | Game | 2D platformer physics implementation. |
+| **[Press the Attack](https://github.com/omerburakozgur/PressTheAttack)** | Unity, C# | Game | 2D platformer combat prototype. |
 
 ---
 
