@@ -22,12 +22,9 @@
 
 ## 🛠️ Skills
 
-<p align="left">
-<img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/>&nbsp;
-<img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="40" height="40"/>&nbsp;
-</p>
+| <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="50" height="50"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="50" height="50"/> |
+| :---: | :---: | :---: | :---: |
+| **Unity** | **C#** | **Blender** | **Maya** |
 
 ## 🚀 Featured Projects
 
