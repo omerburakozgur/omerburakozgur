@@ -31,7 +31,7 @@
 ### 🏰 Dungeon Janitors: Estate of Chaos
 > **Tech Stack:** Unity, C#, Photon Fusion, Host-Authoritative Networking
 
-<img src="https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935" width="800" />
+<img src="https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935" width="775" />
 <br>
 *(Currently Work-in Progress, Concept Image from Synty SIMPLE Dungeons - Cartoon Assets which I will use)*
 
@@ -49,7 +49,7 @@
 > **Tech Stack:** Unity, C#, Mobile Optimization, Event-Driven Architecture
 
 <a href="https://www.youtube.com/watch?v=q1c7BIsLqdY" target="_blank">
- <img src="https://img.itch.zone/aW1hZ2UvMzAzNzM0Mi8xODE2NTA0My5wbmc=/original/KWB2rR.png" width="800" />
+ <img src="https://img.itch.zone/aW1hZ2UvMzAzNzM0Mi8xODE2NTA0My5wbmc=/original/KWB2rR.png" width="775" />
 </a>
 <br>
 *(Click on the image to watch the gameplay video)*
@@ -68,7 +68,7 @@
 > **Tech Stack:** Unity, C#, Aseprite, State Machines
 
 <a href="https://www.youtube.com/watch?v=hN8WNtm1iks" target="_blank">
- <img src="https://github.com/user-attachments/assets/4a80d741-396a-49c6-8133-bbc4996fc571" width="800" />
+ <img src="https://github.com/user-attachments/assets/4a80d741-396a-49c6-8133-bbc4996fc571" width="775" />
 </a>
 <br>
 *(Click on the image to watch the gameplay video)*
@@ -87,7 +87,7 @@
 ### 🌅 Simulator Prototype (HDRP)
 > **Tech Stack:** Unity HDRP, C#, Blender, Procedural Generation
 
-<img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e" width="800" />
+<img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e" width="775" />
 
 **Description:** A 3D simulation game prototype using Unity HDRP, global illumination, and photorealism, built using C# and Blender.
 * I designed, created, or edited and used the terrain, sea, sky, fog, and cloud volume systems.
