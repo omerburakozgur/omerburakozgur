@@ -12,7 +12,8 @@
   <a href="https://docs.google.com/document/d/1oHTRgFcwOxaLTzd0nmqvlj4q5a-r1A2pS3TVQ3v1YLQ/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV_(English)-282c34?style=for-the-badge&logo=read-the-docs&logoColor=00C6FF" alt="CV English" />
   </a>
-  <a href="https://www.linkedin.com/in/omerburakozgur/" target="_blank">
+  
+  <br> <a href="https://www.linkedin.com/in/omerburakozgur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://omerburakozgur.itch.io/" target="_blank">
