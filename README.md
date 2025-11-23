@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ömer Burak ÖZGÜR</h1>
-<h3>💻 Computer Engineer | 🎮 Unity and C# Game Developer | Master of Science in Game Technologies</h3>
+<h3>💻 Computer Engineer | 🎮 Unity and C# Game Developer | 🏫 Master of Science in Game Technologies</h3>
 
 <h3>📄 Documents and Portfolio</h3>
 <div>
