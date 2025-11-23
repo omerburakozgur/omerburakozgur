@@ -213,6 +213,6 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omerburakozgur&theme=null" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=omerburakozgur)](https://git.io/streak-stats)
 
 </div>
