@@ -1,9 +1,9 @@
 <div align="center">
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ömer Burak ÖZGÜR</h1>
-<h3>Computer Engineer | Systems Programmer | Technical Designer</h3>
+<h3>💻 Computer Engineer | 🎮 Unity and C# Game Developer | Master of Science in Game Technologies</h3>
 
-<h3>📄 Professional Documents</h3>
+<h3>📄 Documents and Portfolio</h3>
 <div>
   <a href="https://docs.google.com/document/d/1rA07IceXtNLH9nzYyWPUSiTzrVrACVsMTIoy9PX6aQY/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV_(Türkçe)-282c34?style=for-the-badge&logo=read-the-docs&logoColor=FF0000" alt="CV Türkçe" />
@@ -13,14 +13,15 @@
   </a>
   
   <a href="https://omerburakozgur.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Portfolio" />
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
   </a>
   <a href="https://www.artstation.com/" target="_blank">
-    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation Portfolio" />
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
   </a>
 </div>
 
-<h3>📬 Connect With Me</h3>
+<h3>📬 My Socials</h3>
+
 <div>
   <a href="https://www.linkedin.com/in/omerburakozgur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -37,21 +38,28 @@
 
 ---
 
-### 👨‍💻 Engineering & Architecture
+<div align="center">
+<h3>About Me</h3>
+</div>
 
-I am a **Computer Engineer** specializing in **Game Architecture** and **Multiplayer Systems**. Currently pursuing a Master of Science in Game Technologies at Hacettepe University.
+📚 To further improve my skills, I am currently pursuing a **Master of Science in Computer Animation and Game Technologies** at Hacettepe University.
 
-* 🔭 **Current Focus:** Architecting a **Host-Authoritative** co-op simulator using **Photon Fusion**, C#, and Blender.
-* 👯 **Leadership:** Actively leading a game jam team of 5 developers.
-* 🌱 **Specialization:** Focused on **Net-Ready Architecture**, **State Machines**, and clean **OOP Principles**.
-* 🎨 **Technical Art:** Alongside programming, I create **GDD/TDD documentation** and **3D Models** to bridge the gap between design and code.
-* 📖 **Academic Focus:** Game Architecture, Serious Games, Applied Computer Animation, Visual Effects.
+🔭 Lately working on a **Host-Authoritative** 2-4 player co-op simulator game using Unity, C#, Photon Fusion, and Blender.
 
-> 💬 *Feel free to ask me anything related to my projects or game architecture!*
+👯 Actively leading a game jam team of 5 people.
 
-<br>
+🌱 Developing various projects with a focus on **Net-Ready Architecture** and **Networking**.
 
-<h2 align="center">🛠️ Technical Stack</h2>
+📖 Main areas of work and interests are **Unity, C#, AI State Machines, Networking, Game Design, and 3D Design**.
+
+📖 My current classes include: Game Architecture, Applied Computer Animation, Serious Games, and Visual Effects.
+
+🎨 **Alongside** game development and programming; I also work on game design and 3D design, creating **GDDs**, **TDDs**, and **3D models**.
+
+💬 You can ask me anything related to my projects and areas of interest.
+
+
+<h2 align="center">🛠️ Skills</h2>
 
 <div align="center">
 
@@ -66,24 +74,24 @@ I am a **Computer Engineer** specializing in **Game Architecture** and **Multipl
 <h1 align="center">🚀 Featured Projects</h1>
 
 <h3 align="center">🏰 Dungeon Janitors: Estate of Chaos</h3>
-<h4 align="center"><i>Multiplayer Architecture & Networking Prototype</i></h4>
 
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Photon Fusion, Host-Authoritative Networking</blockquote>
   <img src="https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935" width="600" />
   <br>
-  <i>(Work-in-Progress Concept using Placeholder Assets)</i>
+  <i>(Currently Work-in Progress, Concept Image from Synty SIMPLE Dungeons - Cartoon Assets which I will use)</i>
 </div>
 <br>
 
-**Engineering Overview:** A C#-focused 4-player co-op architecture built on **'Net-Ready'** systems.
-* **Architecture:** Implementing a **Host-Authoritative** topology with **Lag Compensation** to ensure gameplay fairness.
-* **System Design:** Utilizing **Scriptable Object Event Channels** and **Observer Pattern** for modularity.
-* **Process:** Managing development via **Agile sprints**, code reviews, and comprehensive **TDD/GDD** documentation.
+**Description:** Developing a C#-focused 2-4 player co-op prototype on **'Net-Ready'** and **'Host-Authoritative'** systems, utilizing **Lag Compensation**, **SO Event Channels**, and the **Observer Pattern**.
+
+* Prepared the **Technical Design (TDD)** and **Game Design (GDD)** documents for the project.
+* Managing the development process using self-created sprints, code reviews, and testing.
 
 **Skills Used:** C#, System Design, Technical Documentation, Prototyping, Agile Development.
 
 <div align="center">
+
 <a href="https://github.com/omerburakozgur/Dungeon-Janitors-Estate-of-Chaos"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
 <a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
 <a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=microsoftword&logoColor=white" alt="GDD"></a>
@@ -95,7 +103,6 @@ I am a **Computer Engineer** specializing in **Game Architecture** and **Multipl
 ---
 
 <h3 align="center">🕵️ Traces of Twins</h3>
-<h4 align="center"><i>Mobile Optimization & Event-Driven Systems</i></h4>
 
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Mobile Optimization, Event-Driven Architecture</blockquote>
@@ -103,18 +110,19 @@ I am a **Computer Engineer** specializing in **Game Architecture** and **Multipl
     <img src="https://img.itch.zone/aW1hZ2UvMzAzNzM0Mi8xODE2NTA0My5wbmc=/original/KWB2rR.png" width="600" />
   </a>
   <br>
-  <i>(Click image to watch gameplay)</i>
+  <i>(Click on the image to watch the gameplay video)</i>
 </div>
 <br>
 
-**Engineering Overview:** Served as **Team Lead** for a 3D mobile mystery game, balancing high fidelity with performance.
-* **Optimization:** Implemented **Occlusion Culling** and efficient Canvas systems for mobile stability.
-* **Architecture:** Engineered an **Event-Driven Inventory System** to decouple UI from game logic.
-* **Role:** Managed the technical pipeline, Git merge strategies, and gameplay programming.
+**Description:** Leading a team of 3, I developed the Unity and code side of this 3D mobile mystery game prototype. I was responsible for the entire Unity integration and participated in gameplay, level, UI, story, and 3D design.
+
+* Programmed the **Event-Driven Inventory System** and core game mechanics (Minigames, clue gathering) using C#.
+* Implemented basic optimization (**Occlusion Culling**) and Unity UI (Canvas) systems for mobile platforms.
 
 **Skills Used:** Unity, C#, Event-Driven Architecture, Mobile Optimization, UI Design, 3D Design.
 
 <div align="center">
+
 <a href="https://github.com/omerburakozgur/Traces-of-Twins"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
 <a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
 <a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=microsoftword&logoColor=white" alt="GDD"></a>
@@ -126,7 +134,6 @@ I am a **Computer Engineer** specializing in **Game Architecture** and **Multipl
 ---
 
 <h3 align="center">⚔️ To The Reach</h3>
-<h4 align="center"><i>AI Logic & Finite State Machines</i></h4>
 
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Aseprite, State Machines</blockquote>
@@ -134,18 +141,20 @@ I am a **Computer Engineer** specializing in **Game Architecture** and **Multipl
     <img src="https://github.com/user-attachments/assets/4a80d741-396a-49c6-8133-bbc4996fc571" width="600" />
   </a>
   <br>
-  <i>(Click image to watch gameplay)</i>
+  <i>(Click on the image to watch the gameplay video)</i>
 </div>
 <br>
 
-**Engineering Overview:** A narrative-driven action platformer developed solo, demonstrating full-pipeline capability.
-* **AI Logic:** Programmed **Finite State Machines (FSM)** for enemy behaviors and boss patterns.
-* **Animation:** Developed complex character controllers linked to **Unity Animator State Machines**.
-* **Production:** Handled all aspects including Pixel Art (Aseprite), Design, and C# Logic.
+**Description:** A narrative-driven, 2D side-scroller action game featuring 5 different characters with unique skillsets, **2 mini bosses**, and **1 main boss**.
+
+* Developed the entire process solo, including design, programming (C#), pixel art (Aseprite), and animation.
+* Created **State Machine-based** character controls and UI systems using Unity Animator.
+* Designed and programmed all logic and gameplay mechanics using C#.
 
 **Skills Used:** Unity, C#, Aseprite, State Machines, Animation, Game Design.
 
 <div align="center">
+
 <a href="https://github.com/omerburakozgur/ToTheReach"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
 <a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
 <a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=microsoftword&logoColor=white" alt="GDD"></a>
@@ -157,7 +166,6 @@ I am a **Computer Engineer** specializing in **Game Architecture** and **Multipl
 ---
 
 <h3 align="center">🌅 Simulator Prototype (HDRP)</h3>
-<h4 align="center"><i>Technical Art & Procedural Tools</i></h4>
 
 <div align="center">
   <blockquote>Tech Stack: Unity HDRP, C#, Blender, Procedural Generation</blockquote>
@@ -165,13 +173,15 @@ I am a **Computer Engineer** specializing in **Game Architecture** and **Multipl
 </div>
 <br>
 
-**Engineering Overview:** A technical exploration of Unity HDRP for photorealistic simulation.
-* **Environment:** Designed volume systems for sky, fog, and clouds to achieve global illumination.
-* **Tools:** Utilized procedural texturing tools, terrain stamps, and LOD optimization for large-scale scenery.
+**Description:** A 3D simulation game prototype using **Unity HDRP**, **Global Illumination**, and photorealism, built using C# and Blender.
+
+* Designed and created volume systems for terrain, sea, sky, fog, and clouds.
+* Explored and utilized scene design tools including terrain stamps, procedural terrain texturing, 3D/2D foliage, **LOD levels**, and day/night cycles.
 
 **Skills Used:** Unity HDRP, C#, Blender, Environment Design, Procedural Texturing, Lighting.
 
 <div align="center">
+
 <a href="https://github.com/omerburakozgur/Simulator-Prototype-HDRP"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
 <a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
 <a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=microsoftword&logoColor=white" alt="GDD"></a>
@@ -185,17 +195,17 @@ I am a **Computer Engineer** specializing in **Game Architecture** and **Multipl
 <h3 align="center">📂 Other Prototypes & Tools</h3>
 
 <div align="center">
-  <i>Earlier experiments, tools, and game jam entries.</i>
+  <i>Here are some of my earlier experiments, tools, and game jam entries.</i>
 </div>
 <br>
 
 | Project Name | Tech Stack | Type | Description | Focus |
 | :--- | :--- | :--- | :--- | :--- | 
 | **[Image Processing Tool](https://github.com/omerburakozgur/ImageProcessingAppCSharp)** | C#, .NET Forms | Tool | A windows form application for basic image manipulation and filtering. |`Image Processing` `.Net ` |
-| **[Drive and Choose](https://github.com/omerburakozgur/DriveAndChoose)** | Unity, C# | Game | 3D Isometric endless runner & quiz game prototype. |`Endless Runner` `Object Pooling` |
-| **[Jump and Run](https://github.com/omerburakozgur/JumpAndRun)** | Unity, C# | Game | 2D platformer physics implementation. |`2D` `Physics` |
-| **[Press the Attack](https://github.com/omerburakozgur/PressTheAttack)** | Unity, C# | Game | 2D platformer combat prototype. | `2D` `Combat` |
-| **[Forest Fire AI](https://github.com/omerburakozgur/ForestFireDetection)** | AI, Python | Tool | Forest Fire Detection classification program with CNN. | `TensorFlow` `Classification` |
+| **[Drive and Choose](https://github.com/omerburakozgur/DriveAndChoose)** | Unity, C# | Game | 3D Isometric endless runner & quiz game prototype. |`Endless Runner` `Quiz` |
+| **[Jump and Run](https://github.com/omerburakozgur/JumpAndRun)** | Unity, C# | Game | 2D platformer physics implementation. |`2D` `Physical Movement` |
+| **[Press the Attack](https://github.com/omerburakozgur/PressTheAttack)** | Unity, C# | Game | 2D platformer combat prototype. | `2D` `Combat` `Platformer`|
+| **[Forest Fire AI](https://github.com/omerburakozgur/ForestFireDetection)** | AI, Python | Tool | Forest Fire Detection classification program with Convolutional Neural Networks. | `TensorFlow` `Classification` |
 
 ---
 
