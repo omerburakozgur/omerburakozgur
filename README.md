@@ -25,11 +25,11 @@
 <div align="center">
 
 ## 📬 Contact Me
-<a href="https://www.linkedin.com/in/omerburakozgur/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://omerburakozgur.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.youtube.com/@omerburakozgur6148/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://www.linkedin.com/in/omerburakozgur/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://omerburakozgur.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-%23FF0B45.svg?&style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a> <a href="https://www.youtube.com/@omerburakozgur6148/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 ## 🛠️ Skills
 
-| <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="55" height="55"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="55" height="55"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/58a79e8d-32b9-4ef6-a32c-1ef2ed04e768" alt="photon" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="visual studio" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="55" height="55"/> |
+| <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="55" height="55"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="55" height="55"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/photon-engine.svg" alt="photon" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="visual studio" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="55" height="55"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Unity** | **C#** | **Blender** | **Maya** | **Git** | **Photon (Learning)** | **Visual Studio** | **Trello** |
 
@@ -53,7 +53,15 @@
 
 **Skills Used:** C#, System Design, Technical Documentation, Prototyping, Agile Development.
 
-[View Source Code](https://github.com/omerburakozgur/Dungeon-Janitors-Estate-of-Chaos)
+<div align="center">
+
+<a href="https://github.com/omerburakozgur/Dungeon-Janitors-Estate-of-Chaos"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
+<a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=microsoftword&logoColor=white" alt="GDD"></a>
+<a href=""><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
+<a href=""><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
+
+</div>
 
 ---
 
@@ -75,7 +83,15 @@
 
 **Skills Used:** Unity, C#, Event-Driven Architecture, Mobile Optimization, UI Design, 3D Design.
 
-[View Source Code](https://github.com/omerburakozgur/Traces-of-Twins)
+<div align="center">
+
+<a href="https://github.com/omerburakozgur/Traces-of-Twins"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
+<a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=microsoftword&logoColor=white" alt="GDD"></a>
+<a href=""><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
+<a href=""><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
+
+</div>
 
 ---
 
@@ -98,7 +114,15 @@
 
 **Skills Used:** Unity, C#, Aseprite, State Machines, Animation, Game Design.
 
-[View Source Code](https://github.com/omerburakozgur/ToTheReach)
+<div align="center">
+
+<a href="https://github.com/omerburakozgur/ToTheReach"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
+<a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=microsoftword&logoColor=white" alt="GDD"></a>
+<a href=""><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
+<a href=""><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
+
+</div>
 
 ---
 
@@ -116,7 +140,15 @@
 
 **Skills Used:** Unity HDRP, C#, Blender, Environment Design, Procedural Texturing, Lighting.
 
-[View Source Code](https://github.com/omerburakozgur/Simulator-Prototype-HDRP)
+<div align="center">
+
+<a href="https://github.com/omerburakozgur/Simulator-Prototype-HDRP"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
+<a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=microsoftword&logoColor=white" alt="GDD"></a>
+<a href=""><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
+<a href=""><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
+
+</div>
 
 ---
 
