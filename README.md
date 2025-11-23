@@ -4,7 +4,7 @@
 
 [Türkçe Portföy](https://docs.google.com/document/d/1WY1GZ0g-e3BqSUSJV6oxlcHF7A5-vO4t6ICOkTF5pWw/edit?usp=sharing) | [Türkçe CV](https://docs.google.com/document/d/1rA07IceXtNLH9nzYyWPUSiTzrVrACVsMTIoy9PX6aQY/edit?usp=sharing) | [English Portfolio](https://docs.google.com/document/d/1WY1GZ0g-e3BqSUSJV6oxlcHF7A5-vO4t6ICOkTF5pWw/edit?usp=sharing) | [English CV](https://docs.google.com/document/d/1oHTRgFcwOxaLTzd0nmqvlj4q5a-r1A2pS3TVQ3v1YLQ/edit?usp=sharing) | [Itch.io](https://omerburakozgur.itch.io/) | [Linkedin](https://www.linkedin.com/in/omerburakozgur/) | omerburakozgur1@gmail.com
 
-<h3>🎮 Unity Game Developer</h3>
+<h1>🎮 Unity Game Developer</h1>
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <h1 align="center">🚀 Featured Projects</h1>
 
-<h2 align="center">🏰 Dungeon Janitors: Estate of Chaos</h2>
+<h1 align="center">🏰 Dungeon Janitors: Estate of Chaos</h1>
 
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Photon Fusion, Host-Authoritative Networking</blockquote>
@@ -71,7 +71,7 @@
 
 ---
 
-<h2 align="center">🕵️ Traces of Twins</h2>
+<h1 align="center">🕵️ Traces of Twins</h1>
 
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Mobile Optimization, Event-Driven Architecture</blockquote>
@@ -96,7 +96,7 @@
 
 ---
 
-<h2 align="center">⚔️ To The Reach</h2>
+<h1 align="center">⚔️ To The Reach</h1>
 
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Aseprite, State Machines</blockquote>
@@ -122,7 +122,7 @@
 
 ---
 
-<h2 align="center">🌅 Simulator Prototype (HDRP)</h2>
+<h1 align="center">🌅 Simulator Prototype (HDRP)</h1>
 
 <div align="center">
   <blockquote>Tech Stack: Unity HDRP, C#, Blender, Procedural Generation</blockquote>
