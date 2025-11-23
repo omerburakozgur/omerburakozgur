@@ -31,9 +31,11 @@
 ### 🏰 Dungeon Janitors: Estate of Chaos
 > **Tech Stack:** Unity, C#, Photon Fusion, Host-Authoritative Networking
 
-<img src="https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935" width="775" />
-<br>
-*(Currently Work-in Progress, Concept Image from Synty SIMPLE Dungeons - Cartoon Assets which I will use)*
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935" width="600" />
+  <br>
+  <i>(Currently Work-in Progress, Concept Image from Synty SIMPLE Dungeons - Cartoon Assets which I will use)</i>
+</div>
 
 **Description:** Within the scope of the "Game Architecture" course, a C#-focused prototype is being developed on 'Net-Ready' systems such as 'Host-Authoritative'.
 
@@ -49,11 +51,13 @@
 ### 🕵️ Traces of Twins
 > **Tech Stack:** Unity, C#, Mobile Optimization, Event-Driven Architecture
 
-<a href="https://www.youtube.com/watch?v=q1c7BIsLqdY" target="_blank">
- <img src="https://img.itch.zone/aW1hZ2UvMzAzNzM0Mi8xODE2NTA0My5wbmc=/original/KWB2rR.png" width="775" />
-</a>
-<br>
-*(Click on the image to watch the gameplay video)*
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=q1c7BIsLqdY" target="_blank">
+    <img src="https://img.itch.zone/aW1hZ2UvMzAzNzM0Mi8xODE2NTA0My5wbmc=/original/KWB2rR.png" width="600" />
+  </a>
+  <br>
+  <i>(Click on the image to watch the gameplay video)</i>
+</div>
 
 **Description:** Leading a team of 3 people, I developed the Unity and code side of the 3D mobile mystery game prototype; I took part in the gameplay, level, UI, story and 3D design parts.
 
@@ -69,11 +73,13 @@
 ### ⚔️ To The Reach
 > **Tech Stack:** Unity, C#, Aseprite, State Machines
 
-<a href="https://www.youtube.com/watch?v=hN8WNtm1iks" target="_blank">
- <img src="https://github.com/user-attachments/assets/4a80d741-396a-49c6-8133-bbc4996fc571" width="775" />
-</a>
-<br>
-*(Click on the image to watch the gameplay video)*
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=hN8WNtm1iks" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4a80d741-396a-49c6-8133-bbc4996fc571" width="600" />
+  </a>
+  <br>
+  <i>(Click on the image to watch the gameplay video)</i>
+</div>
 
 **Description:** I created a narrative driven, 2D side scroller, action game with 5 different characters with unique skillsets and 2 mini boss, 1 main bosses.
 
@@ -90,7 +96,9 @@
 ### 🌅 Simulator Prototype (HDRP)
 > **Tech Stack:** Unity HDRP, C#, Blender, Procedural Generation
 
-<img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e" width="775" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e" width="600" />
+</div>
 
 **Description:** A 3D simulation game prototype using Unity HDRP, global illumination, and photorealism, built using C# and Blender.
 
