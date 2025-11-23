@@ -37,7 +37,7 @@
 </div>
 
 
-<h2>🎮 Unity Game Developer</h2>
+<h2>🎮 Unity Developer and C# Game Programmer</h2>
 
 </div>
 
@@ -53,6 +53,8 @@
 
 📖 My current classes are: Game Architecture, Applied Computer Animation, Serious Games, Visual Effects.
 
+📚 Belongside game development and programming; I also work on game design and 3D design, creating GDD's, TDD's and 3D models. 
+
 💬 You can ask me anything related to my projects and areas of interest.
 
 
@@ -60,7 +62,7 @@
 
 <div align="center">
 
-| <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="75" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="55" height="55"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="55" height="55"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="50" height="50"/> | <img src="https://github.com/user-attachments/assets/00a5dc06-d56a-4e61-8108-f78f1835d4cd" alt="photon" width="65" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="visual studio" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="50" height="50"/> |
+| <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="75" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="45" height="45"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="55" height="55"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="50" height="50"/> | <img src="https://github.com/user-attachments/assets/00a5dc06-d56a-4e61-8108-f78f1835d4cd" alt="photon" width="65" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="visual studio" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="50" height="50"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Unity** | **C#** | **Blender** | **Maya** | **Git** | **Photon** | **Visual Studio** | **Trello** |
 
@@ -189,21 +191,21 @@
 
 ---
 
-<h2 align="center">📂 Other Prototypes & Tools</h2>
+<h3 align="center">📂 Other Prototypes & Tools</h3>
 
 <div align="center">
   <i>Here are some of my earlier experiments, tools, and game jam entries.</i>
 </div>
 <br>
 
-| Project Name | Tech Stack | Type | Description |
-| :--- | :--- | :--- | :--- | :--- |
-| **[Image Processing Tool](https://github.com/omerburakozgur/ImageProcessingAppCSharp)** | C#, .NET Forms | Tool | A windows form application for basic image manipulation and filtering. | `C#` `.NET` `Image Manipulation` |
-| **[Drive and Choose](https://github.com/omerburakozgur/DriveAndChoose)** | Unity, C# | Game | 3D Isometric endless runner & quiz game prototype. | `Mechanic Design` `Quiz Logic` |
-| **[Jump and Run](https://github.com/omerburakozgur/JumpAndRun)** | Unity, C# | Game | 2D platformer physics implementation. |`2D Physics`  |
-| **[Press the Attack](https://github.com/omerburakozgur/PressTheAttack)** | Unity, C# | Game | 2D platformer combat prototype. | `2D Combat` |
-| **[Forest Fire AI](https://github.com/omerburakozgur/ForestFireDetection)** | AI, Python | Game | 2D platformer combat prototype. | `TensorFlow` `Classification` |
 
+| Project Name | Tech Stack | Type | Description | Focus |
+| :--- | :--- | :--- | :--- | :--- | 
+| **[Image Processing Tool](https://github.com/omerburakozgur/ImageProcessingAppCSharp)** | C#, .NET Forms | Tool | A windows form application for basic image manipulation and filtering. |`Image Processing` `.Net ` |
+| **[Drive and Choose](https://github.com/omerburakozgur/DriveAndChoose)** | Unity, C# | Game | 3D Isometric endless runner & quiz game prototype. |`Endless Runner` `Quiz` |
+| **[Jump and Run](https://github.com/omerburakozgur/JumpAndRun)** | Unity, C# | Game | 2D platformer physics implementation. |`2D` `Physical Movement` |
+| **[Press the Attack](https://github.com/omerburakozgur/PressTheAttack)** | Unity, C# | Game | 2D platformer combat prototype. | `2D` `Combat` `Platformer`|
+| **[Forest Fire AI](https://github.com/omerburakozgur/ForestFireDetection)** | AI, Python | Tool | Forest Fire Detection classification program with Convolutional Neural Networks. | `TensorFlow` `Classification` |
 ---
 
 <div align="center">
