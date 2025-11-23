@@ -35,11 +35,12 @@
 > **Tech Stack:** Unity, C#, Photon Fusion, Host-Authoritative Networking
 
 ![Dungeon Janitors Gameplay](https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935)
-Currently Work-in Progress, Concept Image from Synty SIMPLE Dungeons - Cartoon Assets which I will use.
-**Description:** Within the scope of the "Game Architecture" course, a C#-focused prototype is being developed using **host-authoritative architecture** to ensure net-ready gameplay.
-* **Role:** Network & Gameplay Programmer (Team Lead)
-* **Key Contribution:** I prepared the technical design (TDD) and game design (GDD) documents and managed the sprint cycles.
-* **Tech:** Implemented generic network struct synchronization and cheat-free movement logic.
+*(Currently Work-in Progress, Concept Image from Synty SIMPLE Dungeons - Cartoon Assets which I will use)*
+
+**Description:** Within the scope of the "Game Architecture" course, a C#-focused prototype is being developed on 'Net-Ready' systems such as 'Host-Authoritative'.**.
+* I prepared the technical design (TDD) and game design (GDD) documents of the project.
+* I manage the project development process using self created and planned sprints, code reviews and tests.
+**Skills Used:** C#, System Design, Technical Documentation, Prototyping, Agile Development.
 
 [View Source Code](https://github.com/omerburakozgur/Dungeon-Janitors-Estate-of-Chaos)
 
@@ -51,26 +52,12 @@ Currently Work-in Progress, Concept Image from Synty SIMPLE Dungeons - Cartoon A
 [![Traces of Twins Gameplay](https://img.itch.zone/aW1hZ2UvMzAzNzM0Mi8xODE2NTA0My5wbmc=/original/KWB2rR.png)](https://www.youtube.com/watch?v=q1c7BIsLqdY)
 *(Click on the image to watch the gameplay video)*
 
-**Description:** A 3D mobile mystery game prototype developed with a team of 3. Focused on stealth mechanics and mobile performance.
-* **Role:** Gameplay & UI Programmer
-* **Key Contribution:** Programmed the event-driven inventory system and occlusion culling for mobile optimization.
-* **Tech:** Custom stealth logic and optimized UI (Canvas) management.
+**Description:** Leading a team of 3 people, I developed the Unity and code side of the 3D mobile mystery game prototype; I took part in the gameplay, level, UI, story and 3D design parts.**.
+* I programmed the event-driven inventory system and core game mechanics (Minigames, clue gathering) using C#.
+* I implemented basic optimization (Occlusion Culling) and Unity UI (Canvas) systems for mobile platforms.
+**Skills Used:** Unity, C#, Event-Driven Architecture, Mobile Optimization, UI Design, 3D Design.
 
 [View Source Code](https://github.com/omerburakozgur/Traces-of-Twins)
-
----
-
-### 🌅 Simulator Prototype (HDRP)
-> **Tech Stack:** Unity HDRP, C#, Blender, Procedural Generation
-
-[![HDRP Simulator Screenshot](https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e)]()
-
-**Description:** A photorealistic 3D simulation prototype exploring High Definition Render Pipeline capabilities.
-* **Role:** Solo Developer / Technical Artist
-* **Key Contribution:** Designed complex volumetric lighting, fog, and day/night cycles using HDRP volumes.
-* **Tech:** Utilized procedural terrain texturing and LOD (Level of Detail) systems for performance.
-
-[View Source Code](https://github.com/omerburakozgur/Simulator-Prototype-HDRP)
 
 ---
 
@@ -80,28 +67,27 @@ Currently Work-in Progress, Concept Image from Synty SIMPLE Dungeons - Cartoon A
 [![To The Reach Gameplay](https://github.com/user-attachments/assets/4a80d741-396a-49c6-8133-bbc4996fc571)](https://www.youtube.com/watch?v=hN8WNtm1iks)
 *(Click on the image to watch the gameplay video)*
 
-**Description:** A pixel-art action platformer where I handled all aspects from code to art.
-* **Role:** Solo Developer
-* **Key Contribution:** Developed a robust State Machine for character controls and combat fluidity.
-* **Art:** Created all pixel art assets and animations using Aseprite.
+**Description:** I created a narrative driven, 2D side scroller, action game with 5 different characters with unique skillsets and 2 mini boss, 1 main bosses.**.
+* I completed the entire process by myself, including design, programming (C#), pixel art (Aseprite) and animation.
+* I developed State Machine based character controls and UI systems (menus, health bar) using Unity Animator.
+* I designed and programmed all the logic and gameplay mechanics using C#.
+**Skills Used:** Unity, C#, Aseprite, State Machines, Animation, Game Design.
 
 [View Source Code](https://github.com/omerburakozgur/ToTheReach)
 
 ---
 
-### Image Processing Tool
+### 🌅 Simulator Prototype (HDRP)
+> **Tech Stack:** Unity HDRP, C#, Blender, Procedural Generation
 
-I created an image processing tool using C# and .Net form applications.
+[![HDRP Simulator Screenshot](https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e)]()
 
-[View Project](https://github.com/omerburakozgur/ImageProcessingAppCSharp)
+**Description:** A 3D simulation game prototype using Unity HDRP, global illumination, and photorealism, built using C# and Blender.**.
+* I designed, created, or edited and used the terrain, sea, sky, fog, and cloud volume systems.
+* I learned and used the scene design tools, including terrain stamps, brushes, procedural terrain texturing tools, 3D and 2D foliage and trees, LOD levels, different lighting methods, and a day/night cycle.
+**Skills Used:** Unity HDRP, C#, Blender, Environment Design, Procedural Texturing, Lighting.
 
----
-
-### Drive and Choose
-
-I developed a 3D Isometric endless runner quiz game prototype called “Drive and Choose” using Unity and C#.
-
-[View Project](https://github.com/omerburakozgur/DriveAndChoose)
+[View Source Code](https://github.com/omerburakozgur/Simulator-Prototype-HDRP)
 
 ---
 
