@@ -1,7 +1,7 @@
 # Hello 👋, I'm Ömer Burak ÖZGÜR
 [Türkçe Portföy](https://docs.google.com/document/d/1WY1GZ0g-e3BqSUSJV6oxlcHF7A5-vO4t6ICOkTF5pWw/edit?usp=sharing) | [Türkçe CV](https://docs.google.com/document/d/1rA07IceXtNLH9nzYyWPUSiTzrVrACVsMTIoy9PX6aQY/edit?usp=sharing) | [English Portfolio](https://docs.google.com/document/d/1WY1GZ0g-e3BqSUSJV6oxlcHF7A5-vO4t6ICOkTF5pWw/edit?usp=sharing) | [English CV](https://docs.google.com/document/d/1oHTRgFcwOxaLTzd0nmqvlj4q5a-r1A2pS3TVQ3v1YLQ/edit?usp=sharing) | [Itch.io](https://omerburakozgur.itch.io/) | [Linkedin](https://www.linkedin.com/in/omerburakozgur/) | omerburakozgur1@gmail.com
 
-### Unity Game Developer
+### 🎮 Unity Game Developer
 
 📚 Currently pursuing Master of Science in Computer Animation and Game Technologies at Hacettepe University, Ankara/Turkey.
 
@@ -17,10 +17,10 @@
 
 💬 You can ask me anything related to my projects and areas of interest.
 
-## Contact Me
+## 📬 Contact Me
 <p><a href="https://www.linkedin.com/in/omerburakozgur/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://omerburakozgur.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.youtube.com/@omerburakozgur6148/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> </p>
 
-## Skills
+## 🛠️ Skills
 
 <p align="left">
 <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="40" height="40"/>&nbsp;
@@ -34,12 +34,14 @@
 ### 🏰 Dungeon Janitors: Estate of Chaos
 > **Tech Stack:** Unity, C#, Photon Fusion, Host-Authoritative Networking
 
-![Dungeon Janitors Gameplay](https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935)
+<img src="https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935" width="400" />
+<br>
 *(Currently Work-in Progress, Concept Image from Synty SIMPLE Dungeons - Cartoon Assets which I will use)*
 
-**Description:** Within the scope of the "Game Architecture" course, a C#-focused prototype is being developed on 'Net-Ready' systems such as 'Host-Authoritative'.**.
+**Description:** Within the scope of the "Game Architecture" course, a C#-focused prototype is being developed on 'Net-Ready' systems such as 'Host-Authoritative'.
 * I prepared the technical design (TDD) and game design (GDD) documents of the project.
 * I manage the project development process using self created and planned sprints, code reviews and tests.
+
 **Skills Used:** C#, System Design, Technical Documentation, Prototyping, Agile Development.
 
 [View Source Code](https://github.com/omerburakozgur/Dungeon-Janitors-Estate-of-Chaos)
@@ -49,12 +51,16 @@
 ### 🕵️ Traces of Twins
 > **Tech Stack:** Unity, C#, Mobile Optimization, Event-Driven Architecture
 
-[![Traces of Twins Gameplay](https://img.itch.zone/aW1hZ2UvMzAzNzM0Mi8xODE2NTA0My5wbmc=/original/KWB2rR.png)](https://www.youtube.com/watch?v=q1c7BIsLqdY)
+<a href="https://www.youtube.com/watch?v=q1c7BIsLqdY" target="_blank">
+ <img src="https://img.itch.zone/aW1hZ2UvMzAzNzM0Mi8xODE2NTA0My5wbmc=/original/KWB2rR.png" width="400" />
+</a>
+<br>
 *(Click on the image to watch the gameplay video)*
 
-**Description:** Leading a team of 3 people, I developed the Unity and code side of the 3D mobile mystery game prototype; I took part in the gameplay, level, UI, story and 3D design parts.**.
+**Description:** Leading a team of 3 people, I developed the Unity and code side of the 3D mobile mystery game prototype; I took part in the gameplay, level, UI, story and 3D design parts.
 * I programmed the event-driven inventory system and core game mechanics (Minigames, clue gathering) using C#.
 * I implemented basic optimization (Occlusion Culling) and Unity UI (Canvas) systems for mobile platforms.
+
 **Skills Used:** Unity, C#, Event-Driven Architecture, Mobile Optimization, UI Design, 3D Design.
 
 [View Source Code](https://github.com/omerburakozgur/Traces-of-Twins)
@@ -64,13 +70,17 @@
 ### ⚔️ To The Reach
 > **Tech Stack:** Unity, C#, Aseprite, State Machines
 
-[![To The Reach Gameplay](https://github.com/user-attachments/assets/4a80d741-396a-49c6-8133-bbc4996fc571)](https://www.youtube.com/watch?v=hN8WNtm1iks)
+<a href="https://www.youtube.com/watch?v=hN8WNtm1iks" target="_blank">
+ <img src="https://github.com/user-attachments/assets/4a80d741-396a-49c6-8133-bbc4996fc571" width="400" />
+</a>
+<br>
 *(Click on the image to watch the gameplay video)*
 
-**Description:** I created a narrative driven, 2D side scroller, action game with 5 different characters with unique skillsets and 2 mini boss, 1 main bosses.**.
+**Description:** I created a narrative driven, 2D side scroller, action game with 5 different characters with unique skillsets and 2 mini boss, 1 main bosses.
 * I completed the entire process by myself, including design, programming (C#), pixel art (Aseprite) and animation.
 * I developed State Machine based character controls and UI systems (menus, health bar) using Unity Animator.
 * I designed and programmed all the logic and gameplay mechanics using C#.
+
 **Skills Used:** Unity, C#, Aseprite, State Machines, Animation, Game Design.
 
 [View Source Code](https://github.com/omerburakozgur/ToTheReach)
@@ -80,11 +90,12 @@
 ### 🌅 Simulator Prototype (HDRP)
 > **Tech Stack:** Unity HDRP, C#, Blender, Procedural Generation
 
-[![HDRP Simulator Screenshot](https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e)]()
+<img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e" width="400" />
 
-**Description:** A 3D simulation game prototype using Unity HDRP, global illumination, and photorealism, built using C# and Blender.**.
+**Description:** A 3D simulation game prototype using Unity HDRP, global illumination, and photorealism, built using C# and Blender.
 * I designed, created, or edited and used the terrain, sea, sky, fog, and cloud volume systems.
 * I learned and used the scene design tools, including terrain stamps, brushes, procedural terrain texturing tools, 3D and 2D foliage and trees, LOD levels, different lighting methods, and a day/night cycle.
+
 **Skills Used:** Unity HDRP, C#, Blender, Environment Design, Procedural Texturing, Lighting.
 
 [View Source Code](https://github.com/omerburakozgur/Simulator-Prototype-HDRP)
@@ -107,4 +118,3 @@ Here are some of my earlier experiments, tools, and game jam entries.
 ## GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerburakozgur&theme=null" alt="GitHub Streak" />
-
