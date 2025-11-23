@@ -94,7 +94,7 @@
 
 <a href="https://github.com/omerburakozgur/Dungeon-Janitors-Estate-of-Chaos"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
 <a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
-<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=microsoftword&logoColor=white" alt="GDD"></a>
+<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="GDD"></a>
 <a href=""><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
 <a href=""><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
 
@@ -125,7 +125,7 @@
 
 <a href="https://github.com/omerburakozgur/Traces-of-Twins"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
 <a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
-<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=microsoftword&logoColor=white" alt="GDD"></a>
+<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="GDD"></a>
 <a href=""><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
 <a href=""><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
 
@@ -157,7 +157,7 @@
 
 <a href="https://github.com/omerburakozgur/ToTheReach"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
 <a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
-<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=microsoftword&logoColor=white" alt="GDD"></a>
+<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="GDD"></a>
 <a href=""><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
 <a href=""><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
 
@@ -184,7 +184,7 @@
 
 <a href="https://github.com/omerburakozgur/Simulator-Prototype-HDRP"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
 <a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
-<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=microsoftword&logoColor=white" alt="GDD"></a>
+<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="GDD"></a>
 <a href=""><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
 <a href=""><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
 
