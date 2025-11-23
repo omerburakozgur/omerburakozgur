@@ -212,7 +212,5 @@
 <div align="center">
 
 <h2 align="center">GitHub Stats</h2>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=omerburakozgur)](https://git.io/streak-stats)
-
+<img width="491" height="194" alt="brave_XbFapjQ08u" src="https://github.com/user-attachments/assets/1ecf45f3-5913-4b19-a7c0-cf18632b0639" />
 </div>
