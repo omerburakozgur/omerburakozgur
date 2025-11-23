@@ -89,7 +89,7 @@
 </div>
 <br>
 
-**Description:** Leading a team of 3 people, I developed the Unity and code side of the 3D mobile mystery game prototype; I took part in the gameplay, level, UI, story and 3D design parts.
+**Description:** Leading a team of 3 people, I developed the Unity and code side of the 3D mobile mystery game prototype; I completed the Unity side myself and took part in the design of gameplay, level, UI, story and 3D models.
 
 * I programmed the event-driven inventory system and core game mechanics (Minigames, clue gathering) using C#.
 * I implemented basic optimization (Occlusion Culling) and Unity UI (Canvas) systems for mobile platforms.
