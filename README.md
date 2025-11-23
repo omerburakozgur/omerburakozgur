@@ -3,12 +3,20 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ömer Burak ÖZGÜR</h1>
 <h3>Computer Engineer | Unity and C# Developer | Master of Science in Game Technologies</h3>
 
+<h3>📄 Documents</h3>
 <div>
   <a href="https://docs.google.com/document/d/1rA07IceXtNLH9nzYyWPUSiTzrVrACVsMTIoy9PX6aQY/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV_(Türkçe)-282c34?style=for-the-badge&logo=read-the-docs&logoColor=FF0000" alt="CV Türkçe" />
   </a>
   <a href="https://docs.google.com/document/d/1oHTRgFcwOxaLTzd0nmqvlj4q5a-r1A2pS3TVQ3v1YLQ/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV_(English)-282c34?style=for-the-badge&logo=read-the-docs&logoColor=00C6FF" alt="CV English" />
+  </a>
+  
+  <a href="https://omerburakozgur.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
+  </a>
+  <a href="https://www.artstation.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
   </a>
 </div>
 
@@ -18,15 +26,12 @@
   <a href="https://www.linkedin.com/in/omerburakozgur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://omerburakozgur.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
-  </a>
-  <a href="https://www.artstation.com/" target="_blank">
-    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
-  </a>
   <a href="https://www.youtube.com/@omerburakozgur6148/videos" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+  <a href="mailto:omerburakozgur1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </div>
 
 </div>
@@ -50,23 +55,12 @@
 
 💬 You can ask me anything related to my projects and areas of interest.
 
-<br>
-
-<h2 align="center">📬 Contact Me</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/omerburakozgur/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://omerburakozgur.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-%23FF0B45.svg?&style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
-  <a href="https://www.youtube.com/@omerburakozgur6148/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-</div>
-
-<br>
 
 <h2 align="center">🛠️ Skills</h2>
 
 <div align="center">
 
-| <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="55" height="55"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="55" height="55"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/00a5dc06-d56a-4e61-8108-f78f1835d4cd" alt="photon" width="85" height="85"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="visual studio" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="55" height="55"/> |
+| <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="75" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="55" height="55"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="55" height="55"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="50" height="50"/> | <img src="https://github.com/user-attachments/assets/00a5dc06-d56a-4e61-8108-f78f1835d4cd" alt="photon" width="65" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="visual studio" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="50" height="50"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Unity** | **C#** | **Blender** | **Maya** | **Git** | **Photon** | **Visual Studio** | **Trello** |
 
@@ -74,9 +68,9 @@
 
 <br>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h1 align="center">🚀 Featured Projects</h1>
 
-<h2 align="center">🏰 Dungeon Janitors: Estate of Chaos</h2>
+<h3 align="center">🏰 Dungeon Janitors: Estate of Chaos</h3>
 
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Photon Fusion, Host-Authoritative Networking</blockquote>
@@ -105,7 +99,7 @@
 
 ---
 
-<h2 align="center">🕵️ Traces of Twins</h2>
+<h3 align="center">🕵️ Traces of Twins</h3>
 
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Mobile Optimization, Event-Driven Architecture</blockquote>
@@ -136,7 +130,7 @@
 
 ---
 
-<h2 align="center">⚔️ To The Reach</h2>
+<h3 align="center">⚔️ To The Reach</h3>
 
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Aseprite, State Machines</blockquote>
@@ -168,7 +162,7 @@
 
 ---
 
-<h2 align="center">🌅 Simulator Prototype (HDRP)</h2>
+<h3 align="center">🌅 Simulator Prototype (HDRP)</h3>
 
 <div align="center">
   <blockquote>Tech Stack: Unity HDRP, C#, Blender, Procedural Generation</blockquote>
