@@ -1,6 +1,7 @@
 <div align="center">
 
-<h1>Hello 👋, I'm Ömer Burak ÖZGÜR</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ömer Burak ÖZGÜR</h1>
+<h3>Computer Engineer | Unity and C# Developer | Master of Science in Game Technologies</h3>
 
 [Türkçe Portföy](https://docs.google.com/document/d/1WY1GZ0g-e3BqSUSJV6oxlcHF7A5-vO4t6ICOkTF5pWw/edit?usp=sharing) | [Türkçe CV](https://docs.google.com/document/d/1rA07IceXtNLH9nzYyWPUSiTzrVrACVsMTIoy9PX6aQY/edit?usp=sharing) | [English Portfolio](https://docs.google.com/document/d/1WY1GZ0g-e3BqSUSJV6oxlcHF7A5-vO4t6ICOkTF5pWw/edit?usp=sharing) | [English CV](https://docs.google.com/document/d/1oHTRgFcwOxaLTzd0nmqvlj4q5a-r1A2pS3TVQ3v1YLQ/edit?usp=sharing) | [Itch.io](https://omerburakozgur.itch.io/) | [Linkedin](https://www.linkedin.com/in/omerburakozgur/) | omerburakozgur1@gmail.com
 
@@ -8,7 +9,7 @@
 
 </div>
 
-📚 Currently pursuing Master of Science in Computer Animation and Game Technologies at Hacettepe University, Ankara/Turkey.
+📚 To further improve my skills, I currently pursue Master of Science in Computer Animation and Game Technologies at Hacettepe University, Ankara/Turkey.
 
 🔭 Lately working on a Host-Authoritative 2-4 player co-op simulator game using Unity, C#, Photon Fusion and Blender.
 
@@ -40,7 +41,7 @@
 
 | <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="55" height="55"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="55" height="55"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/00a5dc06-d56a-4e61-8108-f78f1835d4cd" alt="photon" width="85" height="85"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="visual studio" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="55" height="55"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Unity** | **C#** | **Blender** | **Maya** | **Git** | **Photon (Learning)** | **Visual Studio** | **Trello** |
+| **Unity** | **C#** | **Blender** | **Maya** | **Git** | **Photon** | **Visual Studio** | **Trello** |
 
 </div>
 
@@ -58,7 +59,7 @@
 </div>
 <br>
 
-**Description:** Within the scope of the "Game Architecture" course, a C#-focused prototype is being developed on 'Net-Ready' systems such as 'Host-Authoritative'.
+**Description:** A C#-focused 2-4 player coop prototype is being developed on 'Net-Ready' and 'Host-Authoritative' systems using lag compensation, SO event channels and observer pattern.
 
 * I prepared the technical design (TDD) and game design (GDD) documents of the project.
 * I manage the project development process using self created and planned sprints, code reviews and tests.
