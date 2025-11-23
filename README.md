@@ -22,16 +22,16 @@
 
 ## 🛠️ Skills
 
-| <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="50" height="50"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="50" height="50"/> |
-| :---: | :---: | :---: | :---: |
-| **Unity** | **C#** | **Blender** | **Maya** |
+| <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="65" height="65"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="65" height="65"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="65" height="65"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="65" height="65"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="65" height="65"/> | <img src="https://cdn.worldvectorlogo.com/logos/photon-engine.svg" alt="photon" width="65" height="65"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/ae/a3/Aseprite_logo.png" alt="aseprite" width="65" height="65"/> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Unity** | **C#** | **Blender** | **Maya** | **Git** | **Photon (Learning)** | **Aseprite** |
 
 ## 🚀 Featured Projects
 
 ### 🏰 Dungeon Janitors: Estate of Chaos
 > **Tech Stack:** Unity, C#, Photon Fusion, Host-Authoritative Networking
 
-<img src="https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935" width="400" />
+<img src="https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935" width="500" />
 <br>
 *(Currently Work-in Progress, Concept Image from Synty SIMPLE Dungeons - Cartoon Assets which I will use)*
 
@@ -49,7 +49,7 @@
 > **Tech Stack:** Unity, C#, Mobile Optimization, Event-Driven Architecture
 
 <a href="https://www.youtube.com/watch?v=q1c7BIsLqdY" target="_blank">
- <img src="https://img.itch.zone/aW1hZ2UvMzAzNzM0Mi8xODE2NTA0My5wbmc=/original/KWB2rR.png" width="400" />
+ <img src="https://img.itch.zone/aW1hZ2UvMzAzNzM0Mi8xODE2NTA0My5wbmc=/original/KWB2rR.png" width="500" />
 </a>
 <br>
 *(Click on the image to watch the gameplay video)*
@@ -68,7 +68,7 @@
 > **Tech Stack:** Unity, C#, Aseprite, State Machines
 
 <a href="https://www.youtube.com/watch?v=hN8WNtm1iks" target="_blank">
- <img src="https://github.com/user-attachments/assets/4a80d741-396a-49c6-8133-bbc4996fc571" width="400" />
+ <img src="https://github.com/user-attachments/assets/4a80d741-396a-49c6-8133-bbc4996fc571" width="500" />
 </a>
 <br>
 *(Click on the image to watch the gameplay video)*
@@ -87,7 +87,7 @@
 ### 🌅 Simulator Prototype (HDRP)
 > **Tech Stack:** Unity HDRP, C#, Blender, Procedural Generation
 
-<img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e" width="400" />
+<img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e" width="500" />
 
 **Description:** A 3D simulation game prototype using Unity HDRP, global illumination, and photorealism, built using C# and Blender.
 * I designed, created, or edited and used the terrain, sea, sky, fog, and cloud volume systems.
