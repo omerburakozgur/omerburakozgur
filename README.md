@@ -36,6 +36,7 @@
 *(Currently Work-in Progress, Concept Image from Synty SIMPLE Dungeons - Cartoon Assets which I will use)*
 
 **Description:** Within the scope of the "Game Architecture" course, a C#-focused prototype is being developed on 'Net-Ready' systems such as 'Host-Authoritative'.
+
 * I prepared the technical design (TDD) and game design (GDD) documents of the project.
 * I manage the project development process using self created and planned sprints, code reviews and tests.
 
@@ -55,6 +56,7 @@
 *(Click on the image to watch the gameplay video)*
 
 **Description:** Leading a team of 3 people, I developed the Unity and code side of the 3D mobile mystery game prototype; I took part in the gameplay, level, UI, story and 3D design parts.
+
 * I programmed the event-driven inventory system and core game mechanics (Minigames, clue gathering) using C#.
 * I implemented basic optimization (Occlusion Culling) and Unity UI (Canvas) systems for mobile platforms.
 
@@ -74,6 +76,7 @@
 *(Click on the image to watch the gameplay video)*
 
 **Description:** I created a narrative driven, 2D side scroller, action game with 5 different characters with unique skillsets and 2 mini boss, 1 main bosses.
+
 * I completed the entire process by myself, including design, programming (C#), pixel art (Aseprite) and animation.
 * I developed State Machine based character controls and UI systems (menus, health bar) using Unity Animator.
 * I designed and programmed all the logic and gameplay mechanics using C#.
@@ -90,6 +93,7 @@
 <img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e" width="775" />
 
 **Description:** A 3D simulation game prototype using Unity HDRP, global illumination, and photorealism, built using C# and Blender.
+
 * I designed, created, or edited and used the terrain, sea, sky, fog, and cloud volume systems.
 * I learned and used the scene design tools, including terrain stamps, brushes, procedural terrain texturing tools, 3D and 2D foliage and trees, LOD levels, different lighting methods, and a day/night cycle.
 
