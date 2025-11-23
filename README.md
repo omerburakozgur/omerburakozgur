@@ -24,7 +24,7 @@
 
 <br>
 
-<h2 align="center">📬 Contact Me</h2>
+<h1 align="center">📬 Contact Me</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omerburakozgur/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -34,11 +34,11 @@
 
 <br>
 
-<h2 align="center">🛠️ Skills</h2>
+<h1 align="center">🛠️ Skills</h1>
 
 <div align="center">
 
-| <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="55" height="55"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="55" height="55"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/photon-engine.svg" alt="photon" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="visual studio" width="55" height="55"/> | <img src="https://www.vhv.rs/dpng/d/34-340069_graphic-design-hd-png-download.png" alt="trello" width="55" height="55"/> |
+| <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="55" height="55"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="55" height="55"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/photon-engine.svg" alt="photon" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="visual studio" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="55" height="55"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Unity** | **C#** | **Blender** | **Maya** | **Git** | **Photon (Learning)** | **Visual Studio** | **Trello** |
 
@@ -46,9 +46,9 @@
 
 <br>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h1 align="center">🚀 Featured Projects</h1>
 
-<h3 align="center">🏰 Dungeon Janitors: Estate of Chaos</h3>
+<h2 align="center">🏰 Dungeon Janitors: Estate of Chaos</h2>
 
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Photon Fusion, Host-Authoritative Networking</blockquote>
@@ -71,7 +71,7 @@
 
 ---
 
-<h3 align="center">🕵️ Traces of Twins</h3>
+<h2 align="center">🕵️ Traces of Twins</h2>
 
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Mobile Optimization, Event-Driven Architecture</blockquote>
@@ -96,7 +96,7 @@
 
 ---
 
-<h3 align="center">⚔️ To The Reach</h3>
+<h2 align="center">⚔️ To The Reach</h2>
 
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Aseprite, State Machines</blockquote>
@@ -122,7 +122,7 @@
 
 ---
 
-<h3 align="center">🌅 Simulator Prototype (HDRP)</h3>
+<h2 align="center">🌅 Simulator Prototype (HDRP)</h2>
 
 <div align="center">
   <blockquote>Tech Stack: Unity HDRP, C#, Blender, Procedural Generation</blockquote>
@@ -143,7 +143,7 @@
 
 ---
 
-<h2 align="center">📂 Other Prototypes & Tools</h2>
+<h1 align="center">📂 Other Prototypes & Tools</h1>
 
 <div align="center">
   <i>Here are some of my earlier experiments, tools, and game jam entries.</i>
@@ -161,7 +161,7 @@
 
 <div align="center">
 
-<h2 align="center">GitHub Stats</h2>
+<h1 align="center">GitHub Stats</h1>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerburakozgur&theme=null" alt="GitHub Streak" />
 
