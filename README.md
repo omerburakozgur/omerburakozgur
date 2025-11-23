@@ -1,7 +1,12 @@
+<div align="center">
+
 # Hello 👋, I'm Ömer Burak ÖZGÜR
+
 [Türkçe Portföy](https://docs.google.com/document/d/1WY1GZ0g-e3BqSUSJV6oxlcHF7A5-vO4t6ICOkTF5pWw/edit?usp=sharing) | [Türkçe CV](https://docs.google.com/document/d/1rA07IceXtNLH9nzYyWPUSiTzrVrACVsMTIoy9PX6aQY/edit?usp=sharing) | [English Portfolio](https://docs.google.com/document/d/1WY1GZ0g-e3BqSUSJV6oxlcHF7A5-vO4t6ICOkTF5pWw/edit?usp=sharing) | [English CV](https://docs.google.com/document/d/1oHTRgFcwOxaLTzd0nmqvlj4q5a-r1A2pS3TVQ3v1YLQ/edit?usp=sharing) | [Itch.io](https://omerburakozgur.itch.io/) | [Linkedin](https://www.linkedin.com/in/omerburakozgur/) | omerburakozgur1@gmail.com
 
 ### 🎮 Unity Game Developer
+
+</div>
 
 📚 Currently pursuing Master of Science in Computer Animation and Game Technologies at Hacettepe University, Ankara/Turkey.
 
@@ -17,14 +22,18 @@
 
 💬 You can ask me anything related to my projects and areas of interest.
 
+<div align="center">
+
 ## 📬 Contact Me
-<p><a href="https://www.linkedin.com/in/omerburakozgur/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://omerburakozgur.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.youtube.com/@omerburakozgur6148/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> </p>
+<a href="https://www.linkedin.com/in/omerburakozgur/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://omerburakozgur.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.youtube.com/@omerburakozgur6148/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 ## 🛠️ Skills
 
-| <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="55" height="55"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="55" height="55"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/photon-engine.svg" alt="photon" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="visual studio" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="55" height="55"/> |
+| <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="55" height="55"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="55" height="55"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/58a79e8d-32b9-4ef6-a32c-1ef2ed04e768" alt="photon" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="visual studio" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="55" height="55"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Unity** | **C#** | **Blender** | **Maya** | **Git** | **Photon (Learning)** | **Visual Studio** | **Trello** |
+
+</div>
 
 ## 🚀 Featured Projects
 
@@ -124,6 +133,10 @@ Here are some of my earlier experiments, tools, and game jam entries.
 
 ---
 
+<div align="center">
+
 ## GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerburakozgur&theme=null" alt="GitHub Streak" />
+
+</div>
