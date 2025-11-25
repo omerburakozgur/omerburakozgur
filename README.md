@@ -102,6 +102,31 @@
 
 ---
 
+<h3 align="center">🌅 Simulator Prototype (HDRP)</h3>
+
+<div align="center">
+  <blockquote>Tech Stack: Unity HDRP, C#, Blender, Procedural Generation</blockquote>
+  <img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e" width="600" />
+</div>
+<br>
+
+**Description:** A 3D simulation game prototype using **Unity HDRP**, **Global Illumination**, and photorealism, built using C# and Blender.
+
+* Designed and created volume systems for terrain, sea, sky, fog, and clouds.
+* Explored and utilized scene design tools including terrain stamps, procedural terrain texturing, 3D/2D foliage, **LOD levels**, and day/night cycles.
+
+**Skills Used:** Unity HDRP, C#, Blender, Environment Design, Procedural Texturing, Lighting.
+
+<div align="center">
+
+<a href="https://github.com/omerburakozgur/Simulator-Prototype-HDRP"><img src="https://img.shields.io/badge/GitHub_Page-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
+<a href="https://omerburakozgur.itch.io/simhdrp"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+<a href="https://www.artstation.com/artwork/rlmD0m"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
+
+</div>
+
+---
+
 <h3 align="center">🕵️ Traces of Twins</h3>
 
 <div align="center">
@@ -163,30 +188,6 @@
 
 ---
 
-<h3 align="center">🌅 Simulator Prototype (HDRP)</h3>
-
-<div align="center">
-  <blockquote>Tech Stack: Unity HDRP, C#, Blender, Procedural Generation</blockquote>
-  <img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e" width="600" />
-</div>
-<br>
-
-**Description:** A 3D simulation game prototype using **Unity HDRP**, **Global Illumination**, and photorealism, built using C# and Blender.
-
-* Designed and created volume systems for terrain, sea, sky, fog, and clouds.
-* Explored and utilized scene design tools including terrain stamps, procedural terrain texturing, 3D/2D foliage, **LOD levels**, and day/night cycles.
-
-**Skills Used:** Unity HDRP, C#, Blender, Environment Design, Procedural Texturing, Lighting.
-
-<div align="center">
-
-<a href="https://github.com/omerburakozgur/Simulator-Prototype-HDRP"><img src="https://img.shields.io/badge/GitHub_Page-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
-<a href="https://omerburakozgur.itch.io/simhdrp"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
-<a href="https://www.artstation.com/artwork/rlmD0m"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
-
-</div>
-
----
 
 <h3 align="center">📂 Other Prototypes & Tools</h3>
 
