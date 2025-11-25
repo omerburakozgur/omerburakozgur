@@ -106,7 +106,9 @@
 
 <div align="center">
   <blockquote>Tech Stack: Unity HDRP, C#, Blender, Procedural Generation</blockquote>
-  <img src="https://github.com/user-attachments/assets/5446de6c-bbfc-4bd8-80f1-956f5359812e" width="600" />
+  <a href="https://www.youtube.com/watch?v=XMrsSZeXPhw" target="_blank">
+  <img src="https://github.com/user-attachments/assets/9780a2e0-f58d-4e54-9dc3-fab31e86f132" width="600" /></a>
+  
 </div>
 <br>
 
@@ -132,7 +134,7 @@
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Mobile Optimization, Event-Driven Architecture</blockquote>
   <a href="https://www.youtube.com/watch?v=q1c7BIsLqdY" target="_blank">
-    <img src="https://img.itch.zone/aW1hZ2UvMzAzNzM0Mi8xODE2NTA0My5wbmc=/original/KWB2rR.png" width="600" />
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/90705984/518894824-b5c8605c-8b34-4bf0-a96c-90aebe0fcf58.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251125T225758Z&X-Amz-Expires=300&X-Amz-Signature=a10e5b81a1adac895a46a9f1abbb37e7b96e12b141a90d10285e402542fdc687&X-Amz-SignedHeaders=host" width="600" />
   </a>
   <br>
   <i>(Click on the image to watch the gameplay video)</i>
@@ -162,7 +164,7 @@
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Aseprite, State Machines</blockquote>
   <a href="https://www.youtube.com/watch?v=hN8WNtm1iks" target="_blank">
-    <img src="https://github.com/user-attachments/assets/4a80d741-396a-49c6-8133-bbc4996fc571" width="600" />
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/90705984/518900206-1b86be3e-31af-4517-8ba5-74da4f589a30.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251125T225721Z&X-Amz-Expires=300&X-Amz-Signature=4cf63fc37cc237a88519bce23f63f19440f9fb9fda8f5883d4266d79c196ec95&X-Amz-SignedHeaders=host" width="600" />
   </a>
   <br>
   <i>(Click on the image to watch the gameplay video)</i>
