@@ -15,7 +15,7 @@
   <a href="https://omerburakozgur.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
   </a>
-  <a href="https://www.artstation.com/" target="_blank">
+  <a href="https://omerburakozgur.artstation.com/" target="_blank">
     <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
   </a>
 </div>
@@ -93,10 +93,10 @@
 <div align="center">
 
 <a href="https://github.com/omerburakozgur/Dungeon-Janitors-Estate-of-Chaos"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
-<a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
-<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="GDD"></a>
-<a href=""><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
-<a href=""><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
+<a href="https://omerburakozgur.itch.io/dungeon-janitors"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+<a href="https://docs.google.com/document/d/1wt112ZX0hZ7NIivY41Cdhh5RROT_jld6gSN8U51ylDo/edit?usp=sharing"><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="GDD"></a>
+<a href="https://docs.google.com/document/d/1wqi1_IfI3CmmCAdL-SX_Pjgux8QhREAc288wea1te8Q/edit?usp=sharing"><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
+<a href="https://www.artstation.com/artwork/mAe0Ed"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
 
 </div>
 
@@ -124,10 +124,9 @@
 <div align="center">
 
 <a href="https://github.com/omerburakozgur/Traces-of-Twins"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
-<a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
-<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="GDD"></a>
-<a href=""><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
-<a href=""><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
+<a href="https://omerburakozgur.itch.io/traces-of-twins"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+<a href="https://docs.google.com/spreadsheets/d/1qScDjcwksfNEI0XTjJ5h9I4on9ndayCG0LV6NSkvzc0/edit?gid=1129985467#gid=1129985467"><img src="https://img.shields.io/badge/Document-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="Document"></a>
+<a href="https://www.artstation.com/artwork/rlmDAa"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
 
 </div>
 
@@ -156,10 +155,9 @@
 <div align="center">
 
 <a href="https://github.com/omerburakozgur/ToTheReach"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
-<a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
-<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="GDD"></a>
-<a href=""><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
-<a href=""><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
+<a href="https://omerburakozgur.itch.io/to-the-reach"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+<a href="https://docs.google.com/spreadsheets/d/170ER9QGe05l_hQTVN4tuNwHNAqZiFPzERh6UPb0jh7o/edit?gid=0#gid=0"><img src="https://img.shields.io/badge/Document-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="Document"></a>
+<a href="https://www.artstation.com/artwork/GvldvB"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
 
 </div>
 
@@ -182,11 +180,9 @@
 
 <div align="center">
 
-<a href="https://github.com/omerburakozgur/Simulator-Prototype-HDRP"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
-<a href=""><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
-<a href=""><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="GDD"></a>
-<a href=""><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
-<a href=""><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
+<a href="https://github.com/omerburakozgur/Simulator-Prototype-HDRP"><img src="https://img.shields.io/badge/GitHub_Page-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
+<a href="https://omerburakozgur.itch.io/simhdrp"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+<a href="https://www.artstation.com/artwork/rlmD0m"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
 
 </div>
 
