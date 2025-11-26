@@ -266,7 +266,9 @@
 | **[Drive and Choose](https://github.com/omerburakozgur/DriveAndChoose)** | Unity, C# | Game | 3D Isometric endless runner & quiz game prototype. |`Endless Runner` `Quiz` |
 | **[Jump and Run](https://github.com/omerburakozgur/JumpAndRun)** | Unity, C# | Game | 2D platformer physics implementation. |`2D` `Physical Movement` |
 | **[Press the Attack](https://github.com/omerburakozgur/PressTheAttack)** | Unity, C# | Game | 2D platformer combat prototype. | `2D` `Combat` `Platformer`|
-| **[Forest Fire AI](https://github.com/omerburakozgur/ForestFireDetection)** | AI, Python | Tool | Forest Fire Detection classification program with Convolutional Neural Networks. | `TensorFlow` `Classification` |
+| **[Pet Segmentation AI With GUI](https://github.com/omerburakozgur/PetSegmentationGUI)** | AI, Python | Tool | Pet image Segmentation CNN AI project with GUI using Python, Tensorflow and PyQt5.  | `TensorFlow` `Segmentation`,`CNN` `PyQT5` `GUI` |
+| **[Forest Fire AI Tool With GUI](https://github.com/omerburakozgur/ForestFireCNN-DiabetesDetectionAI)** | AI, Python, Tensorflow, PyQt5, CNN | Tool | Forest Fire CNN project with GUI with emphasis on model training, comparison, testing and evaluation using data from generated graphs Accuracy, Loss, Confusion Matrix. | `TensorFlow` `Classification` `CNN` `PyQt5` `GUI` |
+| **[Diabetes Detection AI Tool With GUI](https://github.com/omerburakozgur/ForestFireCNN-DiabetesDetectionAI)** | AI, Python, Machine Learning, PyQt5 | Tool | Diabetes detection machine learning AI project with GUI. Focused on focus comparison and data. Returns graphs and data such as accuracy, confusion matrix, loss, sensitivity, precision, specificity and F1 score. | `TensorFlow` `Classification` `Machine Learning` `PyQt5` `GUI`|
 
 ---
 
