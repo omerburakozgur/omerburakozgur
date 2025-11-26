@@ -250,7 +250,7 @@
         <small>Prop Modelling</small>
       </td>
       <td width="33%" align="center" valign="top">
-        <a href="https://omerburakozgur.artstation.com/"><b>Modular Pyramid</b></a>
+        <a href="https://omerburakozgur.artstation.com/projects/ZlvB81"><b>Modular Pyramid</b></a>
         <br>
         <a href="https://omerburakozgur.artstation.com/projects/ZlvB81" target="_blank">
           <img src="https://cdna.artstation.com/p/assets/images/images/093/995/960/large/omer-burak-ozgur-pyramid2-watermarked-omerburakozgur.jpg?1764153031" width="50%" alt="Modular Pyramid" />
@@ -262,7 +262,7 @@
 
    <tr>
     <td width="33%" align="center" valign="top">
-        <a href="https://omerburakozgur.artstation.com/projects/989Q3L"><b>Flame VFX</b></a>
+        <a href="https://omerburakozgur.artstation.com/projects/lGPK2G"><b>Flame VFX</b></a>
         <br>
         <a href="https://omerburakozgur.artstation.com/projects/lGPK2G" target="_blank">
           <img src="https://cdna.artstation.com/p/assets/images/images/093/995/840/large/omer-burak-ozgur-fire1-watermarked-omerburakozgur.jpg?1764152642" width="50%" alt="Flame VFX" />
@@ -271,7 +271,7 @@
         <small>Particles / Geometry Nodes</small>
       </td>
       <td width="33%" align="center" valign="top">
-        <a href="https://omerburakozgur.artstation.com/projects/kNbKG6"><b>Happy Crab</b></a>
+        <a href="https://omerburakozgur.artstation.com/projects/kNbKbK"><b>Happy Crab</b></a>
         <br>
         <a href="https://omerburakozgur.artstation.com/projects/kNbKbK" target="_blank">
           <img src="https://cdnb.artstation.com/p/assets/images/images/093/995/415/large/omer-burak-ozgur-crab2-watermarked-omerburakozgur.jpg?1764151221" width="50%" alt="Happy Crab" />
@@ -280,7 +280,7 @@
         <small>3D Modelling / Texturing</small>
       </td>
       <td width="33%" align="center" valign="top">
-        <a href="https://omerburakozgur.artstation.com/"><b>Connected Particles</b></a>
+        <a href="https://omerburakozgur.artstation.com/projects/989Q4L"><b>Connected Particles</b></a>
         <br>
         <a href="https://omerburakozgur.artstation.com/projects/989Q4L" target="_blank">
           <img src="https://cdnb.artstation.com/p/assets/images/images/093/995/653/large/omer-burak-ozgur-connectedparticle-watermarked-omerburakozgur.jpg?1764151951" width="28%" alt="Connected Particles" />
@@ -292,7 +292,7 @@
 
    <tr>
     <td width="33%" align="center" valign="top">
-        <a href="https://omerburakozgur.artstation.com/projects/989Q3L"><b>Abstract Particles</b></a>
+        <a href="https://omerburakozgur.artstation.com/projects/zxv43w"><b>Abstract Particles</b></a>
         <br>
         <a href="https://omerburakozgur.artstation.com/projects/zxv43w" target="_blank">
           <img src="https://cdnb.artstation.com/p/assets/images/images/093/995/685/large/omer-burak-ozgur-onizleme-2.jpg?1764152052" width="50%" alt="Abstract Particles" />
@@ -301,9 +301,9 @@
         <small>Particles / Geometry Nodes</small>
       </td>
       <td width="33%" align="center" valign="top">
-        <a href="https://omerburakozgur.artstation.com/projects/kNbKG6"><b>Police Station Building</b></a>
+        <a href="https://omerburakozgur.artstation.com/projects/3ENP8A"><b>Police Station Building</b></a>
         <br>
-        <a href="https://omerburakozgur.artstation.com/projects/kNbKG6" target="_blank">
+        <a href="https://omerburakozgur.artstation.com/projects/3ENP8A" target="_blank">
           <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/90705984/519220860-e8c94ade-3b09-41b1-bb87-5280609ff152.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251126T143243Z&X-Amz-Expires=300&X-Amz-Signature=bfa6a26bcd6e8fad5b6c2e8f22691893031ad01874693f7bf8183c211825fb21&X-Amz-SignedHeaders=host" width="50%" alt="Police Station" />
         </a>
         <br>
