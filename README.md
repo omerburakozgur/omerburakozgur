@@ -201,51 +201,123 @@
 <div align="center">
   <br><table width="100%">
   <tr>
-    <td width="33%">
-      <a href="https://omerburakozgur.artstation.com/projects/AZx4rq" target="_blank">
-        <img src="https://cdnb.artstation.com/p/assets/images/images/093/987/395/large/omer-burak-ozgur-woodenchest1-omerburakozgurwatermarked.jpg?1764120782" align="left" height="85" style="margin-right:10px" />
-      </a>
-      <a href="https://omerburakozgur.artstation.com/projects/AZx4rq"><b>Wooden Crate</b></a><br>
-      <small>Optimized / Textured</small>
-    </td>
-    <td width="33%">
-      <a href="https://omerburakozgur.artstation.com/projects/XJQ21D" target="_blank">
-        <img src="https://cdnb.artstation.com/p/assets/images/images/093/987/463/large/omer-burak-ozgur-dumbell1-omerburakozgur-watermarked.jpg?1764121065" align="left" height="85" style="margin-right:10px" />
-      </a>
-      <a href="https://omerburakozgur.artstation.com/projects/XJQ21D"><b>3D Dumbbell</b></a><br>
-      <small>Hard Surface / Modeling</small>
-    </td>
-    <td width="33%">
-      <a href="https://omerburakozgur.artstation.com/projects/rlmKJe" target="_blank">
-        <img src="https://cdna.artstation.com/p/assets/images/images/093/987/608/large/omer-burak-ozgur-gameboy-front-watermarked-omerburakozgur.jpg?1764121718" align="left" height="85" style="margin-right:10px" />
-      </a>
-      <a href="https://omerburakozgur.artstation.com/projects/rlmKJe"><b>Handheld Console</b></a><br>
-      <small>Product Design</small>
-    </td>
+    <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/projects/AZx4rq"><b>Wooden Crate</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/projects/AZx4rq" target="_blank">
+          <img src="https://cdnb.artstation.com/p/assets/images/images/093/987/395/large/omer-burak-ozgur-woodenchest1-omerburakozgurwatermarked.jpg?1764120782" width="50%" alt="Wooden Crate" />
+        </a>
+        <br>
+        <small>Optimized / Procedurally Textured</small>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/projects/XJQ21D"><b>3D Dumbbell</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/projects/XJQ21D" target="_blank">
+          <img src="https://cdnb.artstation.com/p/assets/images/images/093/987/463/large/omer-burak-ozgur-dumbell1-omerburakozgur-watermarked.jpg?1764121065" width="50%" alt="3D Dumbbell" />
+        </a>
+        <br>
+        <small>Hard Surface / Modeling / Texturing</small>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/projects/rlmKJe"><b>Handheld Console</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/projects/rlmKJe" target="_blank">
+          <img src="https://cdna.artstation.com/p/assets/images/images/093/987/608/large/omer-burak-ozgur-gameboy-front-watermarked-omerburakozgur.jpg?1764121718" width="28%" alt="Handheld Console" />
+        </a>
+        <br>
+        <small>3D Modelling/Texturing</small>
+      </td>
   </tr>
 
   <tr>
-    <td width="33%">
-      <a href="https://omerburakozgur.artstation.com/projects/989Q3L" target="_blank">
-        <img src="https://cdna.artstation.com/p/assets/images/images/093/988/966/large/omer-burak-ozgur-mozaik1-watermarked-omerburakozgur.jpg?1764126805" align="left" height="85" style="margin-right:10px" />
-      </a>
-      <a href="https://omerburakozgur.artstation.com/projects/989Q3L"><b>Mosaic Painting</b></a><br>
-      <small>Texture Art</small>
-    </td>
-    <td width="33%">
-      <a href="https://omerburakozgur.artstation.com/projects/kNbKG6" target="_blank">
-        <img src="https://cdnb.artstation.com/p/assets/images/images/093/988/975/large/omer-burak-ozgur-plates-watermarked-omerburakozgur.jpg?1764126867" align="left" height="85" style="margin-right:10px" />
-      </a>
-      <a href="https://omerburakozgur.artstation.com/projects/kNbKG6"><b>Porcelain Set</b></a><br>
-      <small>Composition / Prop</small>
-    </td>
-    <td width="33%">
-      <a href="https://omerburakozgur.artstation.com/" target="_blank">
-        <img src="https://cdnb.artstation.com/p/marketplace/presentation_assets/002/468/233/large/file.jpg?1676997546" align="left" height="64" style="margin-right:10px" />
-      </a>
-      <a href="https://omerburakozgur.artstation.com/"><b>View Full Portfolio</b></a><br>
-      <small>Explore more on ArtStation</small>
-    </td>
+    <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/projects/989Q3L"><b>Mosaic Painting</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/projects/989Q3L" target="_blank">
+          <img src="https://cdna.artstation.com/p/assets/images/images/093/988/966/large/omer-burak-ozgur-mozaik1-watermarked-omerburakozgur.jpg?1764126805" width="50%" alt="Mosaic Painting" />
+        </a>
+        <br>
+        <small>Geometry Nodes</small>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/projects/kNbKG6"><b>Porcelain Set</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/projects/kNbKG6" target="_blank">
+          <img src="https://cdnb.artstation.com/p/assets/images/images/093/988/975/large/omer-burak-ozgur-plates-watermarked-omerburakozgur.jpg?1764126867" width="50%" alt="Porcelain Set" />
+        </a>
+        <br>
+        <small>Prop Modelling</small>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/"><b>Modular Pyramid</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/projects/ZlvB81" target="_blank">
+          <img src="https://cdna.artstation.com/p/assets/images/images/093/995/960/large/omer-burak-ozgur-pyramid2-watermarked-omerburakozgur.jpg?1764153031" width="50%" alt="Modular Pyramid" />
+        </a>
+        <br>
+        <small>Geometry Nodes / Blender</small>
+      </td>
+  </tr>
+
+   <tr>
+    <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/projects/989Q3L"><b>Flame VFX</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/projects/lGPK2G" target="_blank">
+          <img src="https://cdna.artstation.com/p/assets/images/images/093/995/840/large/omer-burak-ozgur-fire1-watermarked-omerburakozgur.jpg?1764152642" width="50%" alt="Flame VFX" />
+        </a>
+        <br>
+        <small>Particles / Geometry Nodes</small>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/projects/kNbKG6"><b>Happy Crab</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/projects/kNbKbK" target="_blank">
+          <img src="https://cdnb.artstation.com/p/assets/images/images/093/995/415/large/omer-burak-ozgur-crab2-watermarked-omerburakozgur.jpg?1764151221" width="50%" alt="Happy Crab" />
+        </a>
+        <br>
+        <small>3D Modelling / Texturing</small>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/"><b>Connected Particles</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/projects/989Q4L" target="_blank">
+          <img src="https://cdnb.artstation.com/p/assets/images/images/093/995/653/large/omer-burak-ozgur-connectedparticle-watermarked-omerburakozgur.jpg?1764151951" width="28%" alt="Connected Particles" />
+        </a>
+        <br>
+        <small>Particles / Geometry Nodes</small>
+      </td>
+  </tr>
+
+   <tr>
+    <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/projects/989Q3L"><b>Abstract Particles</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/projects/zxv43w" target="_blank">
+          <img src="https://cdnb.artstation.com/p/assets/images/images/093/995/685/large/omer-burak-ozgur-onizleme-2.jpg?1764152052" width="50%" alt="Abstract Particles" />
+        </a>
+        <br>
+        <small>Particles / Geometry Nodes</small>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/projects/kNbKG6"><b>Police Station Building</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/projects/kNbKG6" target="_blank">
+          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/90705984/519220860-e8c94ade-3b09-41b1-bb87-5280609ff152.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251126T143243Z&X-Amz-Expires=300&X-Amz-Signature=bfa6a26bcd6e8fad5b6c2e8f22691893031ad01874693f7bf8183c211825fb21&X-Amz-SignedHeaders=host" width="50%" alt="Police Station" />
+        </a>
+        <br>
+        <small>Modelling/Texturing/UV Unv. /Baking</small>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/"><b>View Full Portfolio</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/" target="_blank">
+          <img src="https://cdnb.artstation.com/p/marketplace/presentation_assets/002/468/233/large/file.jpg?1676997546" width="28%" alt="View Full Portfolio" />
+        </a>
+        <br>
+        <small>Explore more on ArtStation</small>
+      </td>
   </tr>
 </table><br>
 </div>
