@@ -190,6 +190,67 @@
 
 ---
 
+<h3 align="center">🎨 3D Art & Modeling Portfolio</h3>
+
+<div align="center">
+  <i>A showcase of my 3D modeling, texturing, and environment design work using Blender.</i>
+  <br><br>
+</div>
+
+<div align="center">
+  <br><table width="100%">
+  <tr>
+    <td width="33%">
+      <a href="https://omerburakozgur.artstation.com/projects/AZx4rq" target="_blank">
+        <img src="https://cdnb.artstation.com/p/assets/images/images/093/987/395/large/omer-burak-ozgur-woodenchest1-omerburakozgurwatermarked.jpg?1764120782" align="left" height="85" style="margin-right:10px" />
+      </a>
+      <a href="https://omerburakozgur.artstation.com/projects/AZx4rq"><b>Wooden Crate</b></a><br>
+      <small>Optimized / Textured</small>
+    </td>
+    <td width="33%">
+      <a href="https://omerburakozgur.artstation.com/projects/XJQ21D" target="_blank">
+        <img src="https://cdnb.artstation.com/p/assets/images/images/093/987/463/large/omer-burak-ozgur-dumbell1-omerburakozgur-watermarked.jpg?1764121065" align="left" height="85" style="margin-right:10px" />
+      </a>
+      <a href="https://omerburakozgur.artstation.com/projects/XJQ21D"><b>3D Dumbbell</b></a><br>
+      <small>Hard Surface / Modeling</small>
+    </td>
+    <td width="33%">
+      <a href="https://omerburakozgur.artstation.com/projects/rlmKJe" target="_blank">
+        <img src="https://cdna.artstation.com/p/assets/images/images/093/987/608/large/omer-burak-ozgur-gameboy-front-watermarked-omerburakozgur.jpg?1764121718" align="left" height="85" style="margin-right:10px" />
+      </a>
+      <a href="https://omerburakozgur.artstation.com/projects/rlmKJe"><b>Handheld Console</b></a><br>
+      <small>Product Design</small>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%">
+      <a href="https://omerburakozgur.artstation.com/projects/989Q3L" target="_blank">
+        <img src="https://cdna.artstation.com/p/assets/images/images/093/988/966/large/omer-burak-ozgur-mozaik1-watermarked-omerburakozgur.jpg?1764126805" align="left" height="85" style="margin-right:10px" />
+      </a>
+      <a href="https://omerburakozgur.artstation.com/projects/989Q3L"><b>Mosaic Painting</b></a><br>
+      <small>Texture Art</small>
+    </td>
+    <td width="33%">
+      <a href="https://omerburakozgur.artstation.com/projects/kNbKG6" target="_blank">
+        <img src="https://cdnb.artstation.com/p/assets/images/images/093/988/975/large/omer-burak-ozgur-plates-watermarked-omerburakozgur.jpg?1764126867" align="left" height="85" style="margin-right:10px" />
+      </a>
+      <a href="https://omerburakozgur.artstation.com/projects/kNbKG6"><b>Porcelain Set</b></a><br>
+      <small>Composition / Prop</small>
+    </td>
+    <td width="33%">
+      <a href="https://omerburakozgur.artstation.com/" target="_blank">
+        <img src="https://cdnb.artstation.com/p/marketplace/presentation_assets/002/468/233/large/file.jpg?1676997546" align="left" height="64" style="margin-right:10px" />
+      </a>
+      <a href="https://omerburakozgur.artstation.com/"><b>View Full Portfolio</b></a><br>
+      <small>Explore more on ArtStation</small>
+    </td>
+  </tr>
+</table><br>
+</div>
+
+
+---
 
 <h3 align="center">📂 Other Prototypes & Tools</h3>
 
