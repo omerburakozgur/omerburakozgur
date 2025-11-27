@@ -321,10 +321,10 @@
 
    <tr>
     <td width="33%" align="center" valign="top">
-        <a href="https://omerburakozgur.artstation.com/projects/zxv43w"><b>Hair Simulation</b></a>
+        <a href="https://omerburakozgur.artstation.com/projects/dyXBzK"><b>Hair Simulation</b></a>
         <br>
-        <a href="https://omerburakozgur.artstation.com/projects/zxv43w" target="_blank">
-          <img src="https://cdnb.artstation.com/p/marketplace/presentation_assets/002/468/233/large/file.jpg?1676997546" width="28%" alt="Abstract Particles" />
+        <a href="https://omerburakozgur.artstation.com/projects/dyXBzK" target="_blank">
+          <img src="https://cdna.artstation.com/p/assets/images/images/094/034/500/large/omer-burak-ozgur-hairsimulation3-watermarked-omerburakozgur.jpg?1764254394" width="56%" alt="Abstract Particles" />
         </a>
         <br>
         <small>Particles/Hair</small>
@@ -345,7 +345,7 @@
           <img src="https://cdnb.artstation.com/p/marketplace/presentation_assets/002/468/233/large/file.jpg?1676997546" width="28%" alt="View Full Portfolio" />
         </a>
         <br>
-        <small>Explore more on ArtStation</small>
+        <small>Explore more, my ArtStation Portfolio</small>
       </td>
   </tr>
 </table><br>
