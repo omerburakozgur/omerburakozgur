@@ -309,7 +309,7 @@
         <small>Prop Modelling</small>
       </td>
       <td width="33%" align="center" valign="top">
-        <a href="https://omerburakozgur.artstation.com/"><b>Low Poly Terrain</b></a>
+        <a href="https://omerburakozgur.artstation.com/projects/JrdWOA"><b>Low Poly Terrain</b></a>
         <br>
         <a href="https://omerburakozgur.artstation.com/projects/JrdWOA" target="_blank">
           <img src="https://cdnb.artstation.com/p/assets/images/images/094/026/047/large/omer-burak-ozgur-terrain1-watermarked-omerburakozgur.jpg?1764234846" width="56%" alt="View Full Portfolio" />
@@ -330,7 +330,7 @@
         <small>Particles/Hair</small>
       </td>
       <td width="33%" align="center" valign="top">
-        <a href="https://omerburakozgur.artstation.com/projects/3ENP8A"><b>New Projects</b></a>
+        <a href="https://omerburakozgur.artstation.com/"><b>New Projects</b></a>
         <br>
         <a href="https://omerburakozgur.artstation.com/" target="_blank">
           <img src="https://cdnb.artstation.com/p/marketplace/presentation_assets/002/468/233/large/file.jpg?1676997546" width="28%" alt="New Projects"/>
