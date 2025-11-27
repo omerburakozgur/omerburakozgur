@@ -235,7 +235,7 @@
         <a href="https://omerburakozgur.artstation.com/projects/3ENP8A"><b>Police Station Building</b></a>
         <br>
         <a href="https://omerburakozgur.artstation.com/projects/3ENP8A" target="_blank">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/90705984/519220860-e8c94ade-3b09-41b1-bb87-5280609ff152.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251126T143243Z&X-Amz-Expires=300&X-Amz-Signature=bfa6a26bcd6e8fad5b6c2e8f22691893031ad01874693f7bf8183c211825fb21&X-Amz-SignedHeaders=host" width="50%" alt="Police Station" />
+          <img src="https://cdna.artstation.com/p/assets/images/images/094/013/382/large/omer-burak-ozgur-traces-of-the-twins-zg4pxdxvmp.jpg?1764189756" width="50%" alt="Police Station" />
         </a>
         <br>
         <small>Modelling/Texturing/UV Unv. /Baking</small>
