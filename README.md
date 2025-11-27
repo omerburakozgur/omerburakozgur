@@ -231,6 +231,15 @@
   </tr>
 
   <tr>
+  <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/projects/3ENP8A"><b>Police Station Building</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/projects/3ENP8A" target="_blank">
+          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/90705984/519220860-e8c94ade-3b09-41b1-bb87-5280609ff152.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251126T143243Z&X-Amz-Expires=300&X-Amz-Signature=bfa6a26bcd6e8fad5b6c2e8f22691893031ad01874693f7bf8183c211825fb21&X-Amz-SignedHeaders=host" width="50%" alt="Police Station" />
+        </a>
+        <br>
+        <small>Modelling/Texturing/UV Unv. /Baking</small>
+      </td>
     <td width="33%" align="center" valign="top">
         <a href="https://omerburakozgur.artstation.com/projects/989Q3L"><b>Mosaic Painting</b></a>
         <br>
@@ -239,15 +248,6 @@
         </a>
         <br>
         <small>Geometry Nodes</small>
-      </td>
-      <td width="33%" align="center" valign="top">
-        <a href="https://omerburakozgur.artstation.com/projects/kNbKG6"><b>Porcelain Set</b></a>
-        <br>
-        <a href="https://omerburakozgur.artstation.com/projects/kNbKG6" target="_blank">
-          <img src="https://cdnb.artstation.com/p/assets/images/images/093/988/975/large/omer-burak-ozgur-plates-watermarked-omerburakozgur.jpg?1764126867" width="50%" alt="Porcelain Set" />
-        </a>
-        <br>
-        <small>Prop Modelling</small>
       </td>
       <td width="33%" align="center" valign="top">
         <a href="https://omerburakozgur.artstation.com/projects/ZlvB81"><b>Modular Pyramid</b></a>
@@ -289,7 +289,6 @@
         <small>Particles / Geometry Nodes</small>
       </td>
   </tr>
-
    <tr>
     <td width="33%" align="center" valign="top">
         <a href="https://omerburakozgur.artstation.com/projects/zxv43w"><b>Abstract Particles</b></a>
@@ -301,13 +300,43 @@
         <small>Particles / Geometry Nodes</small>
       </td>
       <td width="33%" align="center" valign="top">
-        <a href="https://omerburakozgur.artstation.com/projects/3ENP8A"><b>Police Station Building</b></a>
+        <a href="https://omerburakozgur.artstation.com/projects/kNbKG6"><b>Porcelain Set</b></a>
         <br>
-        <a href="https://omerburakozgur.artstation.com/projects/3ENP8A" target="_blank">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/90705984/519220860-e8c94ade-3b09-41b1-bb87-5280609ff152.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251126T143243Z&X-Amz-Expires=300&X-Amz-Signature=bfa6a26bcd6e8fad5b6c2e8f22691893031ad01874693f7bf8183c211825fb21&X-Amz-SignedHeaders=host" width="50%" alt="Police Station" />
+        <a href="https://omerburakozgur.artstation.com/projects/kNbKG6" target="_blank">
+          <img src="https://cdnb.artstation.com/p/assets/images/images/093/988/975/large/omer-burak-ozgur-plates-watermarked-omerburakozgur.jpg?1764126867" width="50%" alt="Porcelain Set" />
         </a>
         <br>
-        <small>Modelling/Texturing/UV Unv. /Baking</small>
+        <small>Prop Modelling</small>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/"><b>Low Poly Terrain</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/projects/JrdWOA" target="_blank">
+          <img src="https://cdnb.artstation.com/p/assets/images/images/094/026/047/large/omer-burak-ozgur-terrain1-watermarked-omerburakozgur.jpg?1764234846" width="56%" alt="View Full Portfolio" />
+        </a>
+        <br>
+        <small>Explore more on ArtStation</small>
+      </td>
+  </tr>
+
+   <tr>
+    <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/projects/zxv43w"><b>Hair Simulation</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/projects/zxv43w" target="_blank">
+          <img src="https://cdnb.artstation.com/p/marketplace/presentation_assets/002/468/233/large/file.jpg?1676997546" width="28%" alt="Abstract Particles" />
+        </a>
+        <br>
+        <small>Particles/Hair</small>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <a href="https://omerburakozgur.artstation.com/projects/3ENP8A"><b>New Projects</b></a>
+        <br>
+        <a href="https://omerburakozgur.artstation.com/" target="_blank">
+          <img src="https://cdnb.artstation.com/p/marketplace/presentation_assets/002/468/233/large/file.jpg?1676997546" width="28%" alt="New Projects"/>
+        </a>
+        <br>
+        <small>Coming Soon...</small>
       </td>
       <td width="33%" align="center" valign="top">
         <a href="https://omerburakozgur.artstation.com/"><b>View Full Portfolio</b></a>
