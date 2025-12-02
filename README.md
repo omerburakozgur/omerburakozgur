@@ -5,13 +5,13 @@
 
 <h3>📄 Documents and Portfolio</h3>
 <div>
-  <a href="https://docs.google.com/document/d/1rA07IceXtNLH9nzYyWPUSiTzrVrACVsMTIoy9PX6aQY/edit?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/CV_(Türkçe)-282c34?style=for-the-badge&logo=read-the-docs&logoColor=FF0000" alt="CV Türkçe" />
-  </a>
-  <a href="https://docs.google.com/document/d/1oHTRgFcwOxaLTzd0nmqvlj4q5a-r1A2pS3TVQ3v1YLQ/edit?usp=sharing" target="_blank">
+
+  <a href="https://drive.google.com/file/d/1AdJFVSLLeGeg_dyb-PAvmIkyEatJeNwW/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV_(English)-282c34?style=for-the-badge&logo=read-the-docs&logoColor=00C6FF" alt="CV English" />
   </a>
-  
+  <a href="https://drive.google.com/file/d/15I8Fz7napuSSpVL_bveA768I_LihrlYS/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CV_(Türkçe)-282c34?style=for-the-badge&logo=read-the-docs&logoColor=FF0000" alt="CV Türkçe" />
+  </a>
   <a href="https://omerburakozgur.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
   </a>
@@ -82,10 +82,12 @@
 </div>
 <br>
 
-**Description:** Developing a C#-focused 2-4 player co-op prototype on **'Net-Ready'** and **'Host-Authoritative'** systems, utilizing **Lag Compensation**, **SO Event Channels**, and the **Observer Pattern**.
+**Description:** Developing a C#-focused 2-4 player co-op prototype on **'Net-Ready'** and **'Host-Authoritative'** systems.
 
-* Prepared the **Technical Design (TDD)** and **Game Design (GDD)** documents for the project.
-* Managing the development process using self-created sprints, code reviews, and testing.
+* Developing a **Host-Authoritative Networking** architecture using **Photon Fusion** to ensure cheat-free gameplay and synchronized state, utilizing **Lag Compensation**.
+* Implemented a modular **Event System** using the **Observer Pattern** and **ScriptableObject Channels** for decoupled logic.
+* Authored **Technical (TDD)** and **Game Design Documents (GDD)**, establishing coding standards.
+* Managing the development process using self-created sprints, conducting code reviews, and maintaining a structured **Git workflow**.
 
 **Skills Used:** C#, System Design, Technical Documentation, Prototyping, Agile Development.
 
@@ -112,10 +114,11 @@
 </div>
 <br>
 
-**Description:** A 3D simulation game prototype using **Unity HDRP**, **Global Illumination**, and photorealism, built using C# and Blender.
+**Description:** A 3D simulation game prototype using **Unity HDRP** for high-fidelity rendering and photorealism.
 
-* Designed and created volume systems for terrain, sea, sky, fog, and clouds.
-* Explored and utilized scene design tools including terrain stamps, procedural terrain texturing, 3D/2D foliage, **LOD levels**, and day/night cycles.
+* Engineered a rendering pipeline in Unity HDRP, configuring **Global Illumination**, **Volumetric Clouds**, and volume systems.
+* Implemented a **Blender-to-Unity Workflow** for asset import, utilizing **LODs** to meet strict performance requirements.
+* Utilized **Procedural Terrain tools** to design scalable landscapes and day/night cycles, bridging the gap between code and environment art.
 
 **Skills Used:** Unity HDRP, C#, Blender, Environment Design, Procedural Texturing, Lighting.
 
@@ -141,10 +144,11 @@
 </div>
 <br>
 
-**Description:** Leading a team of 3, I developed the Unity and code side of this 3D mobile mystery game prototype. I was responsible for the entire Unity integration and participated in gameplay, level, UI, story, and 3D design.
+**Description:** Led a team of 3 to develop a 3D mobile mystery game, responsible for the entire Unity integration and coding.
 
-* Programmed the **Event-Driven Inventory System** and core game mechanics (Minigames, clue gathering) using C#.
-* Implemented basic optimization (**Occlusion Culling**) and Unity UI (Canvas) systems for mobile platforms.
+* Programmed the **Event-Driven Inventory System** and core interaction mechanics using C# and **SOLID principles**.
+* Implemented basic optimization (**Occlusion Culling**) and optimized Unity UI (Canvas) structures to maintain high FPS on mobile platforms.
+* Participated in gameplay, level, UI, story, and 3D design.
 
 **Skills Used:** Unity, C#, Event-Driven Architecture, Mobile Optimization, UI Design, 3D Design.
 
@@ -173,8 +177,8 @@
 
 **Description:** A narrative-driven, 2D side-scroller action game featuring 5 different characters with unique skillsets, **2 mini bosses**, and **1 main boss**.
 
-* Developed the entire process solo, including design, programming (C#), pixel art (Aseprite), and animation.
-* Created **State Machine-based** character controls and UI systems using Unity Animator.
+* Executed the entire development cycle myself (design, programming, pixel art, animation); engineered **C# Finite State Machines (FSM)** for character control.
+* Integrated Animation-Code logic using **Animation Events** to ensure responsive gameplay feedback.
 * Designed and programmed all logic and gameplay mechanics using C#.
 
 **Skills Used:** Unity, C#, Aseprite, State Machines, Animation, Game Design.
