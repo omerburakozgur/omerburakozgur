@@ -45,11 +45,11 @@
 
 🔭 Lately working on a **Host-Authoritative** 2-4 player co-op simulator game using Unity, C#, Photon Fusion, and Blender.
 
-👯 Actively leading a game jam team of 5 people.
-
 🌱 Developing various projects with a focus on **Net-Ready Architecture** and **Networking**.
 
 📖 Main areas of work and interests are **Unity, C#, AI State Machines, Networking, Game Design, and 3D Design**.
+
+👯 Actively joining game jams in my free time.
 
 📖 My current classes include: Game Architecture, Applied Computer Animation, Serious Games, and Visual Effects.
 
