@@ -5,11 +5,10 @@
 
 <h3>📄 Documents and Portfolio</h3>
 <div>
-
-  <a href="https://drive.google.com/file/d/1kstAnwjaRvK5x2KSk66QeSVif3Tw5g8V/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1OPWgPZMRPTca2F0bHpIROg8HOD8QWkVL/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV_(English)-282c34?style=for-the-badge&logo=read-the-docs&logoColor=00C6FF" alt="CV English" />
   </a>
-  <a href="https://drive.google.com/file/d/15I8Fz7napuSSpVL_bveA768I_LihrlYS/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1Gseuk2iQE3Yh2jgBTc32V_roV5VB1Geu/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV_(Türkçe)-282c34?style=for-the-badge&logo=read-the-docs&logoColor=FF0000" alt="CV Türkçe" />
   </a>
   <a href="https://omerburakozgur.itch.io/" target="_blank">
