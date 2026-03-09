@@ -76,7 +76,7 @@
 
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Photon Fusion, Host-Authoritative Networking</blockquote>
-  <a href="https://youtu.be/BSkVJF2I5ag" target="_blank">
+  <a href="https://www.youtube.com/watch?v=waVoI2uIIyg" target="_blank">
   <img src="https://github.com/user-attachments/assets/ab0bf884-84cc-40c9-b9e2-a126a7b49f83" width="600" /></a>
 </div>
 <br>
