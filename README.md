@@ -127,7 +127,7 @@
 
 <div align="center">
 
-<a href="https://github.com/omerburakozgur/Project-Echoes"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
+<a href="https://github.com/omerburakozgur/ProjectEchoes"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
 <a href="https://omerburakozgur.itch.io/project-echoes"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
 <a href="https://www.artstation.com/omerburakozgur"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
 
