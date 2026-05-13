@@ -43,9 +43,9 @@
 
 📚 To further improve my skills, I am currently pursuing a **Master of Science in Computer Animation and Game Technologies** at Hacettepe University.
 
-🔭 Lately working on a **Host-Authoritative** 2-4 player co-op simulator game using Unity, C#, Photon Fusion, and Blender.
+🔭 Lately working on a **Host-Authoritative** co-op simulator game and linear narrative FPS systems using **Unity 6.4 LTS**, C#, Photon Fusion, and Blender.
 
-🌱 Developing various projects with a focus on **Net-Ready Architecture** and **Networking**.
+🌱 Developing various projects with a focus on **Net-Ready Architecture**, **Event-Driven Decoupling**, and **Optimization**.
 
 📖 Main areas of work and interests are **Unity, C#, AI State Machines, Networking, Game Design, and 3D Design**.
 
@@ -64,7 +64,7 @@
 
 | <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" alt="unity" width="75" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="45" height="45"/> | <img src="https://brandlogos.net/wp-content/uploads/2022/07/autodesk_maya-logo_brandlogos.net_x7aqy.png" alt="maya" width="55" height="55"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="50" height="50"/> | <img src="https://github.com/user-attachments/assets/00a5dc06-d56a-4e61-8108-f78f1835d4cd" alt="photon" width="65" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="visual studio" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="50" height="50"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Unity** | **C#** | **Blender** | **Maya** | **Git** | **Photon** | **Visual Studio** | **Trello** |
+| **Unity 6.4 LTS** | **C#** | **Blender** | **Maya** | **Git** | **Photon** | **Visual Studio** | **Trello** |
 
 </div>
 
@@ -75,20 +75,22 @@
 <h3 align="center">🏰 Dungeon Janitors: Estate of Chaos</h3>
 
 <div align="center">
-  <blockquote>Tech Stack: Unity, C#, Photon Fusion, Host-Authoritative Networking</blockquote>
-  <a href="https://www.youtube.com/watch?v=waVoI2uIIyg" target="_blank">
-  <img src="https://github.com/user-attachments/assets/ab0bf884-84cc-40c9-b9e2-a126a7b49f83" width="600" /></a>
+  <blockquote>Tech Stack: Unity 6.4 LTS, C#, Photon Fusion, Host-Authoritative Networking</blockquote>
+  <a href="https://youtu.be/fP_WcB68nRI" target="_blank">
+  <img src="YOUR_GIF_LINK_HERE" width="600" /></a>
+  <br>
+  <i>(Click on the image to watch the playable Single Player demo showcase)</i>
 </div>
 <br>
 
-**Description:** Developing a C#-focused 2-4 player co-op prototype on **'Net-Ready'** and **'Host-Authoritative'** systems.
+**Description:** Successfully released the **Single Player Playable Demo** of a C#-focused co-op prototype built upon **'Net-Ready'** and **'Host-Authoritative'** architectures.
 
 * Developing a **Host-Authoritative Networking** architecture using **Photon Fusion** to ensure cheat-free gameplay and synchronized state, utilizing **Lag Compensation**.
 * Implemented a modular **Event System** using the **Observer Pattern** and **ScriptableObject Channels** for decoupled logic.
-* Authored **Technical (TDD)** and **Game Design Documents (GDD)**, establishing coding standards.
+* Polished UI menus, interactive lobbies, custom rendering shaders, and gameplay logic.
 * Managing the development process using self-created sprints, conducting code reviews, and maintaining a structured **Git workflow**.
 
-**Skills Used:** C#, System Design, Technical Documentation, Prototyping, Agile Development.
+**Skills Used:** C#, System Design, Network Architecture, Gameplay Polishing, Technical Documentation.
 
 <div align="center">
 
@@ -98,6 +100,36 @@
 <a href="https://drive.google.com/file/d/1RuRvtg5jgOwtFN5BX9qTqiVGP7Ns_jZK/view?usp=sharing"><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
 <a href="https://drive.google.com/file/d/1surMrpuCImPI4zCX7TWsmPGdrFCJLDtk/view?usp=sharing"><img src="https://img.shields.io/badge/ROADMAP-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="Roadmap"></a>
 <a href="https://www.artstation.com/artwork/mAe0Ed"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
+
+</div>
+
+---
+
+<h3 align="center">🔫 Project: Echoes</h3>
+
+<div align="center">
+  <blockquote>Tech Stack: Unity 6.4 LTS, C#, Event-Driven Architecture, State Pattern AI</blockquote>
+  <a href="https://youtu.be/Cln-pehkH1k" target="_blank">
+  <img src="YOUR_GIF_LINK_HERE" width="600" /></a>
+  <br>
+  <i>(Click on the image to watch the full gameplay video)</i>
+</div>
+<br>
+
+**Description:** A linear narrative-driven first-person shooter (FPS) heavily focused on responsive gunplay mechanics and decoupled software architecture.
+
+* Engineered a **Zero-Coupling Event System** utilizing ScriptableObject Event Channels alongside Unity's New Input System.
+* Programmed highly responsive hitscan gunplay incorporating **regional hitboxes** (Head/Torso), custom recoil curves, and optimized **Object Pooling** for zero garbage collection spikes.
+* Designed modular **Finite State Machine (FSM)** enemy behavior nodes optimized with early-exit targeting sensor loops.
+* Implemented an active survival stress loop utilizing continuous Sanity drain mechanisms integrated with active Armor/Vitals mitigation.
+
+**Skills Used:** Unity, C#, Software Architecture, Gameplay Engineering, AI State Machines, Physics Controllers.
+
+<div align="center">
+
+<a href="https://github.com/omerburakozgur/Project-Echoes"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
+<a href="https://omerburakozgur.itch.io/project-echoes"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+<a href="https://www.artstation.com/omerburakozgur"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a>
 
 </div>
 
