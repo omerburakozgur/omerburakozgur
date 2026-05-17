@@ -140,8 +140,7 @@
 <div align="center">
   <blockquote>Tech Stack: Unity HDRP, C#, Blender, Procedural Generation</blockquote>
   <a href="https://www.youtube.com/watch?v=XMrsSZeXPhw" target="_blank">
-  <img src="https://github.com/user-attachments/assets/9780a2e0-f58d-4e54-9dc3-fab31e86f132" width="600" /></a>
-  
+  <img src="https://github.com/user-attachments/assets/9780a2e0-f58d-4e54-9dc3-fab31e86f132" width="100%" style="max-width: 720px; border-radius: 8px;" /></a>
 </div>
 <br>
 
@@ -168,7 +167,7 @@
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Mobile Optimization, Event-Driven Architecture</blockquote>
   <a href="https://www.youtube.com/watch?v=q1c7BIsLqdY" target="_blank">
-    <img src="https://github.com/user-attachments/assets/10c55ee3-f336-41d8-a24c-89e1a66229b0" width="600" />
+    <img src="https://github.com/user-attachments/assets/10c55ee3-f336-41d8-a24c-89e1a66229b0" width="100%" style="max-width: 720px; border-radius: 8px;" />
   </a>
   <br>
   <i>(Click on the image to watch the gameplay video)</i>
@@ -199,7 +198,7 @@
 <div align="center">
   <blockquote>Tech Stack: Unity, C#, Aseprite, State Machines</blockquote>
   <a href="https://www.youtube.com/watch?v=hN8WNtm1iks" target="_blank">
-    <img src="https://github.com/user-attachments/assets/53633927-a7a6-446c-8907-cebc9f14482e" width="600" />
+    <img src="https://github.com/user-attachments/assets/53633927-a7a6-446c-8907-cebc9f14482e" width="100%" style="max-width: 720px; border-radius: 8px;" />
   </a>
   <br>
   <i>(Click on the image to watch the gameplay video)</i>
