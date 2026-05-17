@@ -77,7 +77,7 @@
 <div align="center">
   <blockquote>Tech Stack: Unity 6.4 LTS, C#, Photon Fusion, Host-Authoritative Networking</blockquote>
   <a href="https://youtu.be/fP_WcB68nRI" target="_blank">
-  <img src="YOUR_GIF_LINK_HERE" width="600" /></a>
+  <img src="https://github.com/user-attachments/assets/08067c9d-9166-4f2a-94a2-0c7106b69ab0" width="100%" style="max-width: 720px; border-radius: 8px; border: 2px solid #FF0000;" /></a>
   <br>
   <i>(Click on the image to watch the playable Single Player demo showcase)</i>
 </div>
@@ -110,7 +110,7 @@
 <div align="center">
   <blockquote>Tech Stack: Unity 6.4 LTS, C#, Event-Driven Architecture, State Pattern AI</blockquote>
   <a href="https://youtu.be/Cln-pehkH1k" target="_blank">
-  <img src="YOUR_GIF_LINK_HERE" width="600" /></a>
+  <img src="https://github.com/user-attachments/assets/8212fa8b-1802-4f8e-b0bc-d515c7d89f96" width="100%" style="max-width: 720px; border-radius: 8px; border: 2px solid #00C6FF;" /></a>
   <br>
   <i>(Click on the image to watch the full gameplay video)</i>
 </div>
