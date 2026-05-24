@@ -94,7 +94,7 @@
 
 <div align="center">
 
-<a href="https://github.com/omerburakozgur/Dungeon-Janitors-Estate-of-Chaos"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
+<a href="https://github.com/omerburakozgur/Dungeon-Janitors-Estate-of-Chaos"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project Page With Descriptions and Code"></a>
 <a href="https://omerburakozgur.itch.io/dungeon-janitors"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
 <a href="https://drive.google.com/file/d/1hrh3xSWb_4aqL3dPtyF-nB9uQ_GEpUPu/view?usp=sharing"><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="GDD"></a>
 <a href="https://drive.google.com/file/d/1RuRvtg5jgOwtFN5BX9qTqiVGP7Ns_jZK/view?usp=sharing"><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
